@@ -3,51 +3,48 @@
 ## I. MENTIONS LÉGALES
 
 ### 1. Éditeur du Site
-Le site **Purple Rouen** (https://purplerouen.fr) est édité par l’**Association Sportive de l’INSA Rouen Normandie**.
-*   **Adresse** : 685 avenue de l'université BP8, 76800 Saint-Étienne-du-Rouvray
-*   **Forme juridique** : Association loi 1901
-*   **Numéro RNA** : [Numéro RNA à insérer]
-*   **Numéro SIRET** : [Numéro SIRET à insérer]
-*   **E-mail** : contact@purplerouen.fr
+Le site **Purple Rouen** ([https://purplerouen.fr](https://purplerouen.fr)) est édité par l’**Association Sportive de l’INSA Rouen Normandie** (AS INSA Rouen).
 
-### 2. Responsable de la publication
-Directeur de la publication : **M. Antoine GLAIZAL**, en qualité de responsable de l'événement.
-Contact : antoine.glaizal@insa-rouen.fr
+*   **Adresse du siège social** : 685 avenue de l'université BP8, 76800 Saint-Étienne-du-Rouvray, France.
+*   **Forme juridique** : Association déclarée (Loi 1901).
+*   **Numéro SIRET** : [NUMÉRO À COMPLÉTER - EX: 197 601 651 00023 (INSA) ou SIRET PROPRE AS]
+*   **Numéro RNA** : [NUMÉRO À COMPLÉTER - EX: W76...]
+*   **Contact** : [contact@purplerouen.fr](mailto:contact@purplerouen.fr)
+
+### 2. Directeur de la publication
+M. **Antoine GLAIZAL**, en qualité de responsable de l'événement.
+Contact : [antoine.glaizal@insa-rouen.fr](mailto:antoine.glaizal@insa-rouen.fr)
 
 ### 3. Hébergement
 Le site est hébergé par :
 **HOSTINGER INTERNATIONAL LIMITED**
-61 Lordou Vironos str., 6023 Larnaca, Chypre.
-Serveurs situés en France.
+Société privée à responsabilité limitée de droit chypriote.
+Adresse : 61 Lordou Vironos str., 6023 Larnaca, Chypre.
+Site web : [https://www.hostinger.fr](https://www.hostinger.fr)
 
-### 4. Délégué à la Protection des Données
+### 4. Délégué à la Protection des Données (DPO)
 M. Romain LEPREVOST
-Contact : dpo@purplerouen.fr
+Contact : [dpo@purplerouen.fr](mailto:dpo@purplerouen.fr)
 
 ---
 
 ## II. CONDITIONS GÉNÉRALES D'UTILISATION (CGU)
 
-### ARTICLE 1 : OBJET ET ACCEPTATION
-Les présentes CGU ont pour objet de définir les modalités de mise à disposition du site https://purplerouen.fr et les conditions d'utilisation par l'Utilisateur.
-Tout accès et utilisation du site suppose l'acceptation et le respect de l'ensemble des termes des présentes Conditions et de leur acceptation inconditionnelle.
+### ARTICLE 1 : OBJET
+Les présentes CGU régissent l'utilisation du site [https://purplerouen.fr](https://purplerouen.fr). L'accès au site implique l'acceptation sans réserve des présentes conditions.
 
-### ARTICLE 2 : ACCÈS AU SITE
-L’éditeur s’efforce de permettre l’accès au site 24 heures sur 24, 7 jours sur 7, sauf en cas de force majeure ou d’un événement hors du contrôle de l’éditeur, et sous réserve des éventuelles pannes et interventions de maintenance nécessaires au bon fonctionnement du site et des services.
-Par conséquent, l’éditeur ne peut garantir une disponibilité du site et/ou des services, une fiabilité des transmissions et des performances en termes de temps de réponse ou de qualité.
+### ARTICLE 2 : ACCESSIBILITÉ
+L’éditeur s’efforce de maintenir le site accessible 24h/24 et 7j/7, mais n'est tenu à aucune obligation de résultat. L'accès peut être interrompu pour des raisons de maintenance ou de force majeure. L'éditeur ne saurait être tenu responsable des dommages résultant d'une indisponibilité du site.
 
 ### ARTICLE 3 : PROPRIÉTÉ INTELLECTUELLE
-La structure générale du site, ainsi que les textes, graphiques, images, sons et vidéos la composant, sont la propriété de l'éditeur ou de ses partenaires. Toute représentation et/ou reproduction et/ou exploitation partielle ou totale des contenus et services proposés par le site, par quelque procédé que ce soit, sans l'autorisation préalable et par écrit de l'éditeur et/ou de ses partenaires est strictement interdite et serait susceptible de constituer une contrefaçon au sens du Code de la propriété intellectuelle.
+Tous les éléments du site (textes, images, logos, charte graphique) sont protégés par le droit d'auteur et la propriété intellectuelle. Toute reproduction, modification ou exploitation totale ou partielle sans l'accord écrit de l'éditeur est strictement interdite et passible de poursuites (Code de la propriété intellectuelle).
+Crédits photos : © Purple Rouen / AS INSA Rouen / Adobe Stock (le cas échéant).
 
-### ARTICLE 4 : LIENS HYPERTEXTES
-Le site peut contenir des liens hypertextes vers d’autres sites présents sur le réseau Internet. Les liens vers ces autres ressources vous font quitter le site. L'éditeur ne peut être tenu responsable du contenu de ces sites tiers.
+### ARTICLE 4 : LIENS EXTERNES
+Le site peut contenir des liens vers des sites tiers. L'éditeur n'exerce aucun contrôle sur ces sites et décline toute responsabilité quant à leur contenu ou leurs pratiques.
 
 ### ARTICLE 5 : RESPONSABILITÉ
-Les informations et/ou documents figurant sur ce site et/ou accessibles par ce site proviennent de sources considérées comme étant fiables. Toutefois, ces informations et/ou documents sont susceptibles de contenir des inexactitudes techniques et des erreurs typographiques. L’éditeur se réserve le droit de les corriger, dès que ces erreurs sont portées à sa connaissance.
-L’utilisation des informations et/ou documents disponibles sur ce site se fait sous l’entière et seule responsabilité de l’utilisateur, qui assume la totalité des conséquences pouvant en découler, sans que l’éditeur puisse être recherché à ce titre, et sans recours contre ce dernier.
+Les informations fournies sur le site le sont à titre indicatif. L'éditeur ne garantit pas l'exactitude, la complétude ou l'actualité des informations diffusées. L'utilisateur reconnaît utiliser ces informations sous sa responsabilité exclusive.
 
 ### ARTICLE 6 : DROIT APPLICABLE
-Tant le présent site que les modalités et conditions de son utilisation sont régis par le droit français, quel que soit le lieu d’utilisation. En cas de contestation éventuelle, et après l’échec de toute tentative de recherche d’une solution amiable, les tribunaux français seront seuls compétents pour connaître de ce litige.
- 
-
-
+Le présent site est soumis au droit français. Tout litige relatif à son utilisation relève de la compétence exclusive des tribunaux français.
