@@ -30,7 +30,7 @@ const HEADER_HTML = `
 
 function getFooterHTML() {
     const footerImageBase64 = getFooterImageBase64();
-    
+
     return `
     <style>
         .footer-text {
@@ -68,7 +68,7 @@ async function convertMarkdownToPdf(filename) {
     }
 
     const content = fs.readFileSync(inputPath, 'utf8');
-    
+
     // Gestion d'erreur si style.css n'existe pas encore
     let css = "";
     if (fs.existsSync(STYLE_PATH)) {
@@ -104,7 +104,7 @@ async function convertMarkdownToPdf(filename) {
         margin: {
             top: '20mm',
             right: '20mm',
-            bottom: '25mm', // Adjusted for footer to be flush with page bottom
+            bottom: '40mm', // Increased to prevent overlap with footer image
             left: '20mm'
         },
         displayHeaderFooter: true,
