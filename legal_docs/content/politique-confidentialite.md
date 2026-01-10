@@ -70,7 +70,10 @@ Lorsque vous utilisez notre site, aucune donnée personnelle n’est automatique
 
 * L’adresse IP des visiteurs et utilisateurs de la plateforme,
 * Des logs de connexion (horodatage, origine de la connexion, requêtes effectuées),
-* Des cookies techniques nécessaires à la distribution et la sécurisation des services.
+* Les cookies techniques nécessaires au bon fonctionnement du site, à la distribution et à la sécurisation des services (notamment via Cloudflare). Ces cookies sont exemptés de consentement selon les recommandations de la CNIL car ils sont strictement nécessaires à la fourniture du service.
+* Le site **n'utilise pas** de cookies publicitaires ou de traceurs nécessitant un consentement préalable.
+
+En navigant sur le site, l'utilisateur est informé de l'utilisation de ces cookies techniques.
 
 Ces données sont collectées et traitées par Cloudflare Inc., dont les serveurs sont situés dans plusieurs régions du monde. Cloudflare applique des mesures conformes aux exigences du Règlement Général sur la Protection des Données (RGPD) pour les utilisateurs situés dans l’Union européenne.
 Pour plus d’informations sur la gestion des données par Cloudflare, vous pouvez consulter leur politique de confidentialité : [https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/).

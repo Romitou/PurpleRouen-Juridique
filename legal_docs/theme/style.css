@@ -1,64 +1,143 @@
+/* Import de la police Inter pour un rendu propre et moderne */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+
 /* Global Styles */
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 12pt;
+    font-family: 'Inter', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 10pt;
     line-height: 1.6;
-    color: #333;
+    /* Interlignage aéré pour compenser le noir dense */
+    color: #000000;
+    /* NOIR FONCÉ PARTOUT pour le texte */
     margin: 0;
     padding: 0;
-    text-align: justify;
+    text-align: left;
+    -webkit-font-smoothing: antialiased;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color: #000;
-    font-weight: bold;
-    margin-top: 1.5em;
-    margin-bottom: 0.5em;
-    text-align: left;
+/* Headings - On garde le violet pour la structure, sinon le document sera triste */
+h1,
+h2,
+h3,
+h4 {
+    color: #581c87;
+    margin-top: 2em;
+    margin-bottom: 0.8em;
+    line-height: 1.2;
 }
 
 h1 {
     font-size: 24pt;
+    font-weight: 800;
     text-align: center;
-    border-bottom: 2px solid #333;
-    padding-bottom: 10px;
-    margin-bottom: 20px;
     text-transform: uppercase;
+    color: #6B21A8;
+    margin-bottom: 2rem;
 }
 
+/* Style moderne pour les Articles (H2) */
 h2 {
-    font-size: 16pt;
-    border-bottom: 1px solid #ccc;
-    padding-bottom: 5px;
+    font-size: 13pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #6B21A8;
+    background-color: #f3e8ff;
+    /* Fond violet très clair */
+    padding: 8px 12px;
+    border-left: 5px solid #6B21A8;
+    border-radius: 0 4px 4px 0;
+    margin-top: 2.5em;
+    /* Force le texte du titre à rester violet, mais si vous le voulez noir, changez color ici */
 }
 
 h3 {
-    font-size: 14pt;
+    font-size: 11pt;
+    font-weight: 600;
+    color: #4c1d95;
+    margin-top: 1.5em;
+    border-bottom: 1px solid #000;
+    /* Ligne noire pour coller au thème "foncé" */
+    padding-bottom: 5px;
 }
 
+/* Paragraphes et Textes */
 p {
     margin-bottom: 1em;
+    color: #000000;
+    /* Noir pur */
 }
 
-ul, ol {
+strong {
+    color: #000000;
+    /* Noir pur */
+    font-weight: 800;
+    /* Plus gras pour se démarquer du noir normal */
+}
+
+/* Listes */
+ul,
+ol {
     margin-bottom: 1em;
-    padding-left: 2em;
+    padding-left: 1.2em;
+    color: #000000;
+    /* Noir pur pour les puces */
 }
 
 li {
     margin-bottom: 0.5em;
+    padding-left: 0.5em;
+    color: #000000;
+    /* Noir pur pour le texte des listes */
 }
 
-/* Legal specific styles */
-.article-title {
-    font-weight: bold;
-    margin-top: 1em;
+/* Force la couleur des puces (bullets) en noir */
+::marker {
+    color: #000000;
 }
 
-/* Print specific adjustments */
+/* Liens */
+a {
+    color: #6B21A8;
+    /* On garde le lien violet pour qu'on sache que c'est cliquable */
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+/* Blockquotes */
+blockquote {
+    background: #f5f5f5;
+    /* Gris très très clair, presque blanc */
+    border-left: 4px solid #000000;
+    /* Bordure noire */
+    margin: 1.5em 0;
+    padding: 1em;
+    font-style: italic;
+    color: #000000;
+    /* Texte noir */
+}
+
+/* Print Specific Adjustments */
 @media print {
     body {
-        margin: 0; /* Let Puppeteer handle margins */
+        font-size: 9pt;
+        color: #000000;
+    }
+
+    h1,
+    h2,
+    h3 {
+        page-break-after: avoid;
+        color: #6B21A8 !important;
+        /* Garde les titres en couleur à l'impression */
+    }
+
+    /* Si vous voulez vraiment TOUT noir à l'impression (même les titres), décommentez ceci : */
+    /* h1, h2, h3, a { color: #000000 !important; } */
+
+    h2 {
+        background-color: transparent !important;
+        border-left: 5px solid #6B21A8 !important;
+        padding-left: 10px;
     }
 
     a {
@@ -66,12 +145,9 @@ li {
         color: #000;
     }
 
-    /* Avoid breaking inside list items or paragraphs if possible */
-    p, li {
+    p,
+    li,
+    blockquote {
         page-break-inside: avoid;
-    }
-
-    h1, h2, h3 {
-        page-break-after: avoid;
     }
 }
