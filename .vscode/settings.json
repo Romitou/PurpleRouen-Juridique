@@ -1,0 +1,15 @@
+{
+  // ... vos autres paramètres ...
+
+  // Indique le chemin vers le wrapper système
+  "markdown-preview-enhanced.chromePath": "/usr/bin/google-chrome",
+
+  // Force Puppeteer à ignorer le sandbox (Crucial sous Linux)
+  "markdown-preview-enhanced.puppeteerLaunchOptions": {
+      "args": [
+          "--no-sandbox", 
+          "--disable-setuid-sandbox"
+      ],
+      "headless": true
+  }
+}
