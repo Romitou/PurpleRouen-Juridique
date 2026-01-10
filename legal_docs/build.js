@@ -13,8 +13,8 @@ const STYLE_PATH = path.join(THEME_DIR, 'style.css');
 const TEMPLATE_PATH = path.join(THEME_DIR, 'template.html');
 
 // Banner/Footer Configuration
-// Charger l'image en base64 pour Puppeteer
 function getFooterImageBase64() {
+    // Note: Assurez-vous que le chemin est correct relative à ce script
     const imagePath = path.join(__dirname, '../assets/banners/footer.png');
     if (fs.existsSync(imagePath)) {
         const imageBuffer = fs.readFileSync(imagePath);
@@ -30,15 +30,26 @@ const HEADER_HTML = `
 
 function getFooterHTML() {
     const footerImageBase64 = getFooterImageBase64();
+    
     return `
-    <div style="position: absolute; bottom: 0; left: 0; margin: 0; padding: 0; width: 100%; font-family: 'Roboto', Helvetica, Arial, sans-serif;">
-        <!-- Image de fond -->
+    <style>
+        .footer-text {
+            font-family: 'Roboto', Helvetica, Arial, sans-serif;
+            font-size: 15px; 
+            font-weight: 500;
+            color: #ffffff !important;
+            -webkit-text-fill-color: #ffffff;
+            text-shadow: none;
+            /* INDISPENSABLE : Force le navigateur à respecter la couleur exacte */
+            -webkit-print-color-adjust: exact;
+            print-color-adjust: exact;
+        }
+    </style>
+    <div style="position: absolute; bottom: 0; left: 0; margin: 0; padding: 0; width: 100%; font-family: 'Roboto', Helvetica, Arial, sans-serif; -webkit-print-color-adjust: exact;">
         <img src="${footerImageBase64}" style="width: 100%; height: auto; display: block; margin: 0; padding: 0; position: relative;" />
         
-        <!-- Contenu superposé -->
         <div style="position: absolute; top: 60%; left: 0; width: 100%; transform: translateY(-50%); display: flex; justify-content: flex-end; align-items: center; padding: 0 150px; box-sizing: border-box;">
-            <!-- Page à droite -->
-            <div style="font-size: 15px; color: #ffffff; font-weight: 500;">
+            <div class="footer-text">
                 Page <span class="pageNumber"></span> / <span class="totalPages"></span>
             </div>
         </div>
@@ -57,7 +68,13 @@ async function convertMarkdownToPdf(filename) {
     }
 
     const content = fs.readFileSync(inputPath, 'utf8');
-    const css = fs.readFileSync(STYLE_PATH, 'utf8');
+    
+    // Gestion d'erreur si style.css n'existe pas encore
+    let css = "";
+    if (fs.existsSync(STYLE_PATH)) {
+        css = fs.readFileSync(STYLE_PATH, 'utf8');
+    }
+
     let template = fs.readFileSync(TEMPLATE_PATH, 'utf8');
 
     // Convert Markdown to HTML
@@ -93,7 +110,7 @@ async function convertMarkdownToPdf(filename) {
         displayHeaderFooter: true,
         headerTemplate: HEADER_HTML,
         footerTemplate: getFooterHTML(),
-        printBackground: true
+        printBackground: true // Important pour que l'image s'affiche
     });
 
     await browser.close();
