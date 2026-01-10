@@ -13,27 +13,37 @@ const STYLE_PATH = path.join(THEME_DIR, 'style.css');
 const TEMPLATE_PATH = path.join(THEME_DIR, 'template.html');
 
 // Banner/Footer Configuration
-// Pour une image, utilisez une URL http:// ou un chemin file:// absolu ou une image en base64 (data:image/png;base64,...)
-// Exemple de logo (placeholder)
-const LOGO_URL = "https://via.placeholder.com/100x30?text=LOGO";
+// Charger l'image en base64 pour Puppeteer
+function getFooterImageBase64() {
+    const imagePath = path.join(__dirname, '../assets/banners/footer.png');
+    if (fs.existsSync(imagePath)) {
+        const imageBuffer = fs.readFileSync(imagePath);
+        return `data:image/png;base64,${imageBuffer.toString('base64')}`;
+    }
+    return '';
+}
 
 const HEADER_HTML = `
     <div style="font-size: 10px; text-align: right; width: 100%; margin-right: 20px; font-family: Helvetica, Arial, sans-serif;">
         Document généré le <span class="date"></span>
     </div>`;
 
-const FOOTER_HTML = `
-    <div style="font-size: 10px; text-align: center; width: 100%; font-family: Helvetica, Arial, sans-serif; padding-top: 10px; border-top: 1px solid #ddd; margin: 0 20px;">
-        <div style="margin-bottom: 5px;">
-            <!-- Exemple d'image de bannière / logo -->
-            <!-- <img src="${LOGO_URL}" style="height: 30px;" /> -->
-            <strong>Mon Événement Super Cool</strong>
-        </div>
-        <div>
-            SAS au capital de 1000€ - RCS Paris 123 456 789 <br />
-            Page <span class="pageNumber"></span> / <span class="totalPages"></span>
+function getFooterHTML() {
+    const footerImageBase64 = getFooterImageBase64();
+    return `
+    <div style="position: absolute; bottom: 0; left: 0; margin: 0; padding: 0; width: 100%; font-family: 'Roboto', Helvetica, Arial, sans-serif;">
+        <!-- Image de fond -->
+        <img src="${footerImageBase64}" style="width: 100%; height: auto; display: block; margin: 0; padding: 0; position: relative;" />
+        
+        <!-- Contenu superposé -->
+        <div style="position: absolute; top: 60%; left: 0; width: 100%; transform: translateY(-50%); display: flex; justify-content: flex-end; align-items: center; padding: 0 150px; box-sizing: border-box;">
+            <!-- Page à droite -->
+            <div style="font-size: 15px; color: #ffffff; font-weight: 500;">
+                Page <span class="pageNumber"></span> / <span class="totalPages"></span>
+            </div>
         </div>
     </div>`;
+}
 
 async function convertMarkdownToPdf(filename) {
     const inputPath = path.join(CONTENT_DIR, filename);
@@ -77,12 +87,12 @@ async function convertMarkdownToPdf(filename) {
         margin: {
             top: '20mm',
             right: '20mm',
-            bottom: '30mm', // Increased bottom margin for footer
+            bottom: '25mm', // Adjusted for footer to be flush with page bottom
             left: '20mm'
         },
         displayHeaderFooter: true,
         headerTemplate: HEADER_HTML,
-        footerTemplate: FOOTER_HTML,
+        footerTemplate: getFooterHTML(),
         printBackground: true
     });
 
