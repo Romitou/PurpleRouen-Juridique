@@ -46,11 +46,9 @@ Dans le cadre de notre activité, notamment via notre plateforme d’inscription
 Les données collectées sont les suivantes :
 
 * **Pour les coureurs :**
-* Certificats PPS comprenant nom, prénom, sexe et date de naissance, soumis à un traitement informatique de validation automatisée ;
-* Licences FFA ou justificatifs médicaux acceptés selon le règlement de course, soumis à une validation humaine réalisée par notre équipe ;
-* Numéro de téléphone.
-
-
+    * Certificats PPS comprenant nom, prénom, sexe et date de naissance, soumis à un traitement informatique de validation automatisée ;
+    * Licences FFA ou justificatifs médicaux acceptés selon le règlement de course, soumis à une validation humaine réalisée par notre équipe ;
+    * Numéro de téléphone.
 * **Pour les acheteurs non coureurs :** nom, prénom, sexe et date de naissance.
 * **Pour les acheteurs et/ou coureurs :** adresse électronique.
 * **Informations liées à l’événement :** sélection de la course à laquelle le coureur s’inscrit.
