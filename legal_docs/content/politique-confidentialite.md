@@ -12,67 +12,69 @@ Cette politique complète les Mentions Légales et les Conditions Générales de
 Le responsable du traitement des données collectées sur le Site est :
 **Association Sportive de l'INSA Rouen Normandie**
 Adresse : 685 avenue de l'université BP8, 76800 Saint-Étienne-du-Rouvray, France.
-Représentée par son Président en exercice.
 Email : [contact@purplerouen.fr](mailto:contact@purplerouen.fr)
 
 Le **Délégué à la Protection des Données (DPO)** peut être contacté pour toute question relative à vos données personnelles à l'adresse : **[dpo@purplerouen.fr](mailto:dpo@purplerouen.fr)**.
 
 ## 3. DONNÉES COLLECTÉES
 
-Dans le cadre de l'organisation de l'événement "Purple Rouen", nous sommes amenés à collecter les catégories de données suivantes :
+Dans le cadre de l'organisation de l'événement "Purple Rouen", nous collectons les données suivantes :
 
-*   **Données d'identification :** Nom, prénom, sexe, date de naissance, nationalité.
-*   **Données de contact :** Adresse postale, adresse électronique, numéro de téléphone, personne à contacter en cas d'urgence (nom et téléphone).
-*   **Données relatives à la vie sportive et à la santé :** Informations relatives aux licences sportives (numéro de licence, club), certificats médicaux, attestations PPS (Parcours Prévention Santé), Pass Prévention Santé.
-*   **Données de paiement :** Les transactions sont gérées par un prestataire de paiement sécurisé. L'Organisateur n'a pas accès aux données complètes des cartes bancaires.
-*   **Données de connexion :** Adresse IP, logs de connexion, type de navigateur (via nos prestataires d'hébergement et de sécurité).
+### 3.1 Données fournies par l'utilisateur
+*   **Identité :** Nom, prénom, sexe, date de naissance, nationalité.
+*   **Contact :** Adresse email (utilisée pour l'authentification "Magic Link" et les confirmations), numéro de téléphone, adresse postale.
+*   **Données sportives :** Numéro de licence FFA, club, temps estimés.
+*   **Données santé (obligatoire pour la sécurité) :** Numéro d'attestation PPS (Parcours Prévention Santé), certificat médical, réponses au questionnaire de santé, personne à contacter en cas d'urgence.
+*   **Commandes :** Détail des inscriptions et produits achetés (taille t-shirt, etc.).
 
-## 4. FINALITÉS ET BASES LÉGALES DU TRAITEMENT
+### 3.2 Données collectées automatiquement
+*   **Données techniques :** Adresse IP, type de navigateur, logs de connexion.
+*   **Sécurité :** Données relatives à la validation antispam via **Cloudflare Turnstile** (ne contient pas de données personnelles identifiantes, mais sert à vérifier l'humanité de l'utilisateur).
 
-Les traitements mis en œuvre répondent à des finalités explicites, légitimes et déterminées :
+## 4. FINALITÉS DU TRAITEMENT
 
-| Finalité du traitement | Base légale (RGPD) |
+Les données sont traitées pour les raisons suivantes :
+
+| Finalité | Base Légale (RGPD) |
 | :--- | :--- |
-| **Gestion des inscriptions** (enregistrement, dossier participant, dossards) | Exécution du contrat (Art. 6.1.b) |
-| **Sécurité et Secours** (vérification aptitude médicale, intervention médicale) | Obligation légale (Code du Sport) & Sauvegarde des intérêts vitaux (Art. 6.1.d) |
-| **Chronométrage et Publication des résultats** | Exécution du contrat (Art. 6.1.b) |
-| **Communication événementielle** (infos pratiques, report) | Exécution du contrat (Art. 6.1.b) |
-| **Statistiques et amélioration du service** | Intérêt légitime de l'Organisateur (Art. 6.1.f) |
+| **Gestion des inscriptions et commandes** | Exécution du contrat (Art. 6.1.b) |
+| **Authentification (Lien magique)** | Sécurité et Exécution du contrat |
+| **Vérification d'aptitude médicale (PPS)** | Obligation légale (Code du Sport) |
+| **Sécurité et Secours sur l'événement** | Sauvegarde des intérêts vitaux (Art. 6.1.d) |
+| **Chronométrage et Publication des résultats** | Intérêt légitime et Exécution du contrat |
+| **Lutte contre la fraude et sécurité du site** | Intérêt légitime (protection des systèmes) |
+| **Communication (Confirmation, infos pratiques)** | Exécution du contrat |
 
 ## 5. DESTINATAIRES DES DONNÉES
 
-Vos données personnelles sont strictement confidentielles et destinées exclusivement :
-*   Aux membres habilités du comité d'organisation de l'AS INSA Rouen.
-*   Au prestataire de chronométrage mandaté par l'organisation, pour la gestion des temps et des classements.
-*   Aux services de secours et médicaux (en cas d'intervention durant l'événement).
-*   Aux prestataires techniques (hébergement web, plateforme d'inscription, sécurité Cloudflare).
-*   Aux autorités administratives et judiciaires légalement habilitées, sur réquisition judiciaire.
+Vos données sont strictement confidentielles. Elles peuvent être transmises aux destinataires suivants, dans la limite de leurs attributions :
+*   **L'équipe d'organisation** de l'AS INSA Rouen (gestion des dossards).
+*   **Chronométreur officiel** (gestion des temps et classements).
+*   **Services de secours** (en cas d'accident uniquement).
+*   **HelloAsso** (Prestataire de paiement sécurisé).
+*   **Prestataires techniques** : Hostinger (Hébergement), Cloudflare (Sécurité).
 
-**Aucune donnée n'est cédée ou vendue à des partenaires commerciaux tiers.**
+**Aucune donnée n'est revendue à des tiers à des fins commerciales.**
 
-## 6. TRANSFERT DE DONNÉES HORS UE
+## 6. SÉCURITÉ DES DONNÉES
 
-Les données sont hébergées sur des serveurs situés au sein de l'Union Européenne. Toutefois, certains prestataires techniques (comme Cloudflare pour la sécurité) peuvent transférer certaines données techniques (logs, IP) hors de l'UE dans le cadre de clauses contractuelles types validées par la Commission Européenne, garantissant un niveau de protection adéquat.
+Nous mettons en œuvre des mesures de sécurité avancées pour protéger vos données :
+*   **Authentification sans mot de passe :** Utilisation de liens magiques envoyés par email pour éviter les piratages de mots de passe.
+*   **HTTPS/TLS :** Chiffrement des communications entre votre navigateur et le site.
+*   **Protection DDoS :** Utilisation de Cloudflare pour protéger le site contre les attaques.
 
 ## 7. DURÉE DE CONSERVATION
 
-*   **Données médicales (Certificats, PPS) :** Conservées 10 ans à compter de l'événement, correspondant au délai de prescription légale en matière de responsabilité civile corporelle.
-*   **Données de facturation :** Conservées 10 ans (obligations comptables).
-*   **Données des participants (hors médical/facturation) :** Conservées 3 ans à compter de la fin de l'événement pour l'envoi d'informations sur les éditions futures, sauf opposition de votre part.
+*   **Données médicales (PPS/Certificats) :** 10 ans (responsabilité civile).
+*   **Données de facturation :** 10 ans (obligations comptables).
+*   **Compte utilisateur :** Supprimé sur demande ou après 3 ans d'inactivité.
 
-## 8. SÉCURITÉ DES DONNÉES
+## 8. VOS DROITS
 
-L'Organisateur met en œuvre des mesures organisationnelles, techniques, logicielles et physiques en matière de sécurité du numérique pour protéger les données personnelles contre les altérations, destructions et accès non autorisés. Toutefois, il est à signaler qu'internet n'est pas un environnement complètement sécurisé et l'Organisateur ne peut garantir la sécurité de la transmission ou du stockage des informations sur internet.
+Conformément au RGPD, vous disposez des droits suivants :
+*   Accès, Rectification, Effacement ("Droit à l'oubli").
+*   Limitation du traitement et Portabilité.
+*   Opposition au traitement.
 
-## 9. VOS DROITS
-
-Conformément à la réglementation applicable, vous disposez des droits suivants sur vos données :
-*   **Droit d'accès et de rectification** des informations vous concernant.
-*   **Droit à l'effacement** (sous réserve des obligations légales de conservation).
-*   **Droit à la limitation du traitement**.
-*   **Droit à la portabilité** de vos données.
-*   **Droit d'opposition** au traitement pour des motifs légitimes.
-
-Pour exercer ces droits, veuillez adresser votre demande accompagnée d'un justificatif d'identité à : **[dpo@purplerouen.fr](mailto:dpo@purplerouen.fr)**.
-
-Si vous estimez, après nous avoir contactés, que vos droits ne sont pas respectés, vous pouvez adresser une réclamation à la CNIL ([www.cnil.fr](https://www.cnil.fr)).
+Pour exercer ces droits, contactez-nous à : **[dpo@purplerouen.fr](mailto:dpo@purplerouen.fr)**.
+En cas de litige, vous pouvez saisir la CNIL ([www.cnil.fr](https://www.cnil.fr)).

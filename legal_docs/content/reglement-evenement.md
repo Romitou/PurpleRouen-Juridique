@@ -6,7 +6,7 @@ La **Purple Rouen** est une manifestation sportive et solidaire organisée par l
 L'événement se tiendra le **samedi 21 mars 2026** au départ du **Gymnase de l'INSA Rouen Normandie**, 160 Avenue Galilée, 76800 Saint-Étienne-du-Rouvray.
 
 Les épreuves sont les suivantes :
-*   **5 km Marche** (départ 09h45) - Épreuve non chronométrée.
+*   **5 km Marche** (départ 09h45) - Épreuve non chronométrée, à allure libre.
 *   **10 km Course** (départ 10h00) - Épreuve chronométrée.
 *   **5 km Course** (départ 10h15) - Épreuve chronométrée.
 
@@ -16,91 +16,90 @@ Les épreuves sont les suivantes :
 L'épreuve est soumise à la réglementation de la Fédération Française d'Athlétisme (FFA) et aux dispositions du Code du Sport en vigueur au jour de l'événement.
 
 ### 2.2 Participants majeurs
-La participation aux courses chronométrées (5 km et 10 km) est conditionnée à la présentation obligatoire (au choix) :
-*   D'une licence **FFA** (Athlé Compétition, Athlé Entreprise, Athlé Running) en cours de validité.
-*   D'une attestation **PPS (Parcours Prévention Santé)** de moins de 3 mois (générée sur [pps.athle.fr](https://pps.athle.fr)).
-*   Du **Pass Prévention Santé** en cours de validité (dispositif 2026).
+Conformément à la réglementation en vigueur (loi du 2 mars 2022 visant à démocratiser le sport), la participation aux courses chronométrées (5 km et 10 km) pour les majeurs est conditionnée à la validation des conditions de santé via l'un des justificatifs suivants :
 
-La marche de 5 km, n'étant pas chronométrée, ne nécessite pas de certificat médical.
+1.  **Licence FFA** en cours de validité (Athlé Compétition, Athlé Entreprise, Athlé Running).
+2.  **Attestation PPS (Parcours Prévention Santé)** : Pour les non-licenciés, la présentation d'un certificat médical n'est plus requise. Elle est remplacée par le **Parcours Prévention Santé (PPS)**. Le participant doit se rendre sur [https://pps.athle.fr](https://pps.athle.fr), suivre le parcours en ligne et générer son attestation (valable 3 mois). Le numéro de l'attestation devra être renseigné lors de l'inscription.
+
+*Note : La marche de 5 km, n'étant pas chronométrée, ne nécessite pas de justificatif médical.*
 
 ### 2.3 Participants mineurs
-Les mineurs doivent fournir :
-*   Une **autorisation parentale** signée.
-*   Le **Questionnaire de santé mineur**. En cas de réponse positive à l'une des questions, un certificat médical de moins de 6 mois est exigé.
-
-Ces documents peuvent être téléchargés lors de l'inscription en ligne ou, en cas de difficulté, envoyés par email à : **[inscriptions@purplerouen.fr](mailto:inscriptions@purplerouen.fr)**.
+Les mineurs doivent fournir les documents suivants lors de l'inscription :
+*   **Autorisation parentale** : Document obligatoire, signé par le représentant légal.
+*   **Questionnaire de santé pour mineurs** : Le participant (et son responsable) doit répondre au questionnaire de santé officiel.
+    *   Si toutes les réponses sont **NÉGATIVES**, seule l'attestation sur l'honneur signée est requise.
+    *   Si au moins une réponse est **POSITIVE**, un **certificat médical** de non-contre-indication à la pratique de la course à pied en compétition, datant de moins de 6 mois, est obligatoire.
 
 **Dispositions spéciales -16 ans :**
-Tout mineur de moins de 16 ans doit être impérativement **accompagné d'un responsable légal** (inscrit et participant à la même épreuve) sur la totalité du parcours. Une **décharge de responsabilité** spécifique signée par le tuteur légal est requise.
+Tout mineur de moins de 16 ans doit être impérativement **accompagné d'un responsable légal** (inscrit et participant à la même épreuve) sur la totalité du parcours.
 
 ## ARTICLE 3 : INSCRIPTIONS ET DOSSARDS
 
 ### 3.1 Inscriptions
-Les inscriptions se font uniquement en ligne sur [https://inscriptions.purplerouen.fr](https://inscriptions.purplerouen.fr). La date limite est fixée au **18 mars 2026**.
-L'organisateur se réserve le droit de clore les inscriptions avant cette date si la jauge maximale est atteinte.
+Les inscriptions se font uniquement en ligne sur la plateforme officielle [https://purplerouen.fr](https://purplerouen.fr).
+*   **Date limite :** 18 mars 2026 à 23h59.
+*   **Compte participant :** L'inscription nécessite la création d'un compte ou l'identification via un lien de connexion sécurisé ("Magic Link") envoyé par email.
+*   **Clôture anticipée :** L'organisateur se réserve le droit de clore les inscriptions avant la date limite si la jauge maximale de sécurité est atteinte.
 
 ### 3.2 Retrait des dossards
-Le retrait s'effectue le **samedi 21 mars 2026 de 8h00 à 9h30** au Gymnase INSA Rouen.
-Pièces obligatoires :
-*   Confirmation d'inscription (QR Code).
-*   Pièce d'identité (ou LéoCarte pour les étudiants).
-*   Pour les mineurs : autorisation parentale (si non transmise en ligne).
+Le retrait des dossards s'effectue exclusivement le jour de l'événement :
+*   **Date :** Samedi 21 mars 2026
+*   **Horaire :** De 8h00 à 9h30
+*   **Lieu :** Village de la course, Gymnase INSA Rouen.
 
-Le dossard doit être porté sur la poitrine, visible dans son intégralité et non plié. Il ne doit pas masquer le nom des partenaires.
+**Pièces obligatoires pour le retrait :**
+1.  La confirmation d'inscription avec QR Code (reçue par email).
+2.  Une pièce d'identité originale (Carte d'identité, Passeport ou LéoCarte pour les étudiants).
+3.  Pour les mineurs : L'autorisation parentale (si elle n'a pas été validée en ligne au préalable).
 
-### 3.3 Incessibilité
-Tout engagement est personnel. Toute cession de dossard à un tiers est strictement interdite. En cas de non-respect, l'Organisateur décline toute responsabilité en cas d'accident subi ou provoqué par le tiers non inscrit.
+*Aucun dossard ne sera envoyé par la poste.*
 
-## ARTICLE 4 : SÉCURITÉ ET NEUTRALITÉ
+### 3.3 Port du dossard
+Le dossard doit être porté sur la poitrine, visible dans son intégralité et non plié durant toute la course. Il ne doit pas masquer le nom des partenaires. La puce de chronométrage (pour le 5km et 10km course) est intégrée au dossard et ne doit pas être retirée.
 
-### 4.1 Sécurité du parcours (Vigipirate)
-L'Organisateur met en place un dispositif de sécurité conforme aux directives préfectorales.
-*   Des contrôles visuels des sacs peuvent être effectués à l'entrée du village.
-*   L'Organisateur se réserve le droit de refuser l'accès à toute personne refusant ce contrôle ou détenant des objets interdits.
+## ARTICLE 4 : SÉCURITÉ ET RÈGLES DE COURSE
 
-### 4.2 Interdiction des drones
-Pour des raisons de sécurité, l'utilisation de drones ou de tout aéronef télécommandé est **strictement interdite** au-dessus et aux abords du site de l'événement (village et parcours), sauf autorisation préfectorale spécifique et accord écrit de l'Organisateur.
+### 4.1 Sécurité du site
+L'Organisateur met en place un dispositif de sécurité conforme aux directives préfectorales. Des contrôles visuels des sacs peuvent être effectués à l'entrée du village. L'introduction d'objets dangereux, d'armes, ou de substances illicites est strictement interdite.
+
+### 4.2 Circulation et accompagnateurs
+Les bicyclettes, engins à roulettes et/ou motorisés sont formellement interdits sur le parcours, hormis ceux de l'organisation. Aucun accompagnateur non inscrit n'est autorisé à suivre les coureurs.
 
 ### 4.3 Neutralité
-Conformément aux principes de neutralité du sport, il est interdit aux participants d'afficher, par quelque moyen que ce soit (banderoles, vêtements, distribution de tracts), des opinions politiques, religieuses ou philosophiques durant l'événement.
+Conformément aux principes de neutralité du sport, il est interdit aux participants d'afficher ostensiblement des opinions politiques, religieuses ou philosophiques durant l'événement.
 
 ### 4.4 Barrières horaires
-Pour le 10 km, les participants doivent respecter les temps de passage suivants :
+Pour le 10 km, les participants doivent respecter les temps de passage suivants pour garantir la réouverture des routes :
 *   **Km 5 :** passage avant 10h50.
 *   **Arrivée :** avant 11h40.
-Au-delà de ces délais, les participants seront déclarés hors course (« fin de course »). Ils pourront continuer sous leur propre responsabilité mais devront se conformer strictement au Code de la route, la sécurisation du parcours étant levée.
+Au-delà de ces délais, les participants seront déclarés hors course. Ils pourront terminer le parcours sous leur propre responsabilité mais devront se conformer strictement au Code de la route.
 
 ## ARTICLE 5 : ASSURANCES ET RESPONSABILITÉ
 
 L'Organisateur a souscrit une assurance Responsabilité Civile (RC) Organisation couvrant les dommages corporels et matériels causés aux tiers du fait de l'organisation.
-**Dommages corporels :** Il est vivement conseillé aux participants non licenciés de souscrire une assurance personnelle "Individuelle Accident".
-**Dommages matériels :** L'Organisateur décline toute responsabilité en cas de vol, bris ou perte de biens personnels (vêtements, téléphones, clés...) des participants, que ce soit sur le parcours, au village ou dans les vestiaires/consignes.
+
+*   **Responsabilité civile :** Les participants sont couverts par l'assurance de l'organisation pour les dommages qu'ils pourraient causer à des tiers pendant l'épreuve.
+*   **Individuelle accident :** L'assurance de l'organisation ne couvre pas les dommages corporels que les participants pourraient s'infliger à eux-mêmes. Il est vivement conseillé aux participants non licenciés de souscrire une assurance personnelle "Individuelle Accident".
+*   **Vol et dégradation :** L'Organisateur décline toute responsabilité en cas de vol, bris ou perte de biens personnels des participants (vêtements, téléphones, clés...) sur l'ensemble du site.
 
 ## ARTICLE 6 : DROIT À L'IMAGE
 
-Par son inscription, le participant autorise l'Organisateur et ses partenaires à capter et utiliser son image (photo, vidéo) dans le cadre de la promotion de l'événement, sur tout support (site web, réseaux sociaux, presse, affiches), pour une durée illimitée.
+En participant à la Purple Rouen, vous autorisez l'équipe d'organisation et ses partenaires à utiliser les images (photos et vidéos) prises lors de l'événement sur lesquelles vous pourriez apparaître. Ces images pourront être utilisées pour la communication de l'événement (site web, réseaux sociaux, presse) et ce, sans contrepartie financière.
 
-**Droit d'opposition :** Tout participant souhaitant s'opposer à cette utilisation doit le signaler par écrit avant l'épreuve à [contact@purplerouen.fr](mailto:contact@purplerouen.fr), en joignant une photo récente permettant son identification (floutage) sur les supports post-événement.
+## ARTICLE 7 : CAS DE FORCE MAJEURE ET ANNULATION
 
-## ARTICLE 7 : ANNULATION OU MODIFICATION
+Si l'épreuve devait être annulée pour cas de force majeure ou pour un motif indépendant de la volonté de l'Organisateur (conditions météo extrêmes, décision préfectorale, crise sanitaire...), l'Organisateur se réserve le droit d'annuler l'épreuve sans que les participants puissent prétendre à une quelconque indemnité autre que celle prévue (ou non) aux Conditions Générales de Vente.
 
-### 7.1 Modification
-L'Organisateur se réserve le droit de modifier à tout moment le parcours, les horaires ou les barrières horaires pour des raisons de sécurité, de météo ou sur demande administrative, sans que cela ne donne droit à remboursement.
+## ARTICLE 8 : PROTECTION DES DONNÉES (RGPD)
 
-### 7.2 Annulation
-En cas de force majeure (telle que définie par la jurisprudence française, incluant notamment : intempéries dangereuses, épidémie, attentat ou menace terroriste, décision administrative d'interdiction), l'Organisateur se réserve le droit d'annuler l'épreuve.
-Dans ce cas, les modalités de remboursement ou de report seront définies par l'Organisateur dans les conditions prévues aux **Conditions Générales de Vente (CGV)**.
+Conformément à la loi informatique et libertés du 6 janvier 1978 et au RGPD, les participants disposent d'un droit d'accès et de rectification aux données personnelles les concernant. Ces données sont utilisées pour le traitement des inscriptions et la communication de l'événement.
 
-## ARTICLE 8 : PROTECTION DES DONNÉES (CNIL)
+## ARTICLE 9 : ACCEPTATION DU RÈGLEMENT
 
-Les données collectées sont nécessaires à l'organisation de la course. Elles sont traitées conformément au RGPD.
-Pour plus de détails sur la gestion de vos données et vos droits, référez-vous à notre **Politique de Confidentialité**.
-
-## ARTICLE 9 : LOI APPLICABLE
-
-Le présent règlement est régi par la loi française. Tout litige relève de la compétence exclusive des tribunaux français.
-La participation à la Purple Rouen implique l'acceptation pleine et entière du présent règlement.
+La participation à la Purple Rouen implique l'acceptation expresse et sans réserve du présent règlement, ainsi que des Conditions Générales de Vente.
+Tout manquement au présent règlement pourra entraîner la disqualification du participant.
 
 ---
-**Pour toute question relative aux inscriptions : [inscriptions@purplerouen.fr](mailto:inscriptions@purplerouen.fr)**
-**Pour tout autre renseignement : [contact@purplerouen.fr](mailto:contact@purplerouen.fr)**
+**Contacts :**
+Inscriptions : [inscriptions@purplerouen.fr](mailto:inscriptions@purplerouen.fr)
+Organisation : [contact@purplerouen.fr](mailto:contact@purplerouen.fr)
