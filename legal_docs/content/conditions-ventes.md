@@ -2,59 +2,58 @@
 
 ## ARTICLE 1 : CHAMP D'APPLICATION
 
-Les présentes Conditions Générales de Vente (CGV) s'appliquent, sans restriction ni réserve, à l'ensemble des ventes de dossards et services annexes conclues par l'**Association Sportive de l'INSA Rouen Normandie** (ci-après "l'Organisateur") auprès d'acheteurs non professionnels (ci-après "le Participant" ou "l'Acheteur"), désirant s'inscrire à l'événement sportif "Purple Rouen".
+Les présentes Conditions Générales de Vente (CGV) régissent la vente de droits d'inscription (dossards) pour l'événement **Purple Rouen** par l'**Association Sportive de l'INSA Rouen Normandie** (ci-après "l'Organisateur").
+L'inscription implique l'acceptation sans réserve des présentes CGV, du Règlement de l'Événement, et de la Politique de Confidentialité.
 
-L'inscription via le site [https://inscriptions.purplerouen.fr](https://inscriptions.purplerouen.fr) vaut acceptation pleine et entière des présentes CGV ainsi que du Règlement de l'Événement.
+## ARTICLE 2 : PRIX ET PAIEMENT
 
-## ARTICLE 2 : TARIFS ET INSCRIPTION
+Les tarifs sont indiqués en euros (€) Toutes Taxes Comprises (TTC).
+Le paiement s'effectue exclusivement en ligne par carte bancaire via une plateforme sécurisée. L'inscription n'est validée qu'après réception intégrale du paiement et confirmation par email.
+L'Organisateur se réserve le droit de modifier les tarifs, mais les services seront facturés sur la base des tarifs en vigueur au moment de la commande.
 
-### 2.1 Prix
-Les prix sont indiqués en euros (€) et s'entendent Toutes Taxes Comprises (TTC).
-L'Organisateur se réserve le droit de modifier ses tarifs à tout moment. Toutefois, l'inscription sera facturée sur la base des tarifs en vigueur au moment de la validation de la commande.
+## ARTICLE 3 : DROIT DE RÉTRACTATION
 
-### 2.2 Frais de gestion
-Des frais de transaction ou de gestion de plateforme peuvent s'ajouter au prix du dossard. Le montant total dû (dossard + frais éventuels) est indiqué de manière claire avant la validation finale de la commande.
+Conformément à l'article **L.221-28 12° du Code de la consommation**, le droit de rétractation ne s'applique pas aux prestations de services d'activités de loisirs (comprenant les événements sportifs) qui doivent être fournis à une date ou à une période déterminée.
+En conséquence, **toute inscription est ferme et définitive**. Aucun remboursement ne pourra être exigé au titre du droit de rétractation.
 
-### 2.3 Validation
-L'inscription n'est considérée comme définitive qu'après :
-1.  Validation du paiement intégral.
-2.  Réception de l'e-mail de confirmation.
-L'Organisateur se réserve le droit de refuser toute inscription d'un Acheteur avec lequel il existerait un litige relatif au paiement d'une commande antérieure.
+## ARTICLE 4 : MODIFICATION ET ANNULATION
 
-## ARTICLE 3 : ABSENCE DE DROIT DE RÉTRACTATION
+### 4.1 Annulation par le Participant
+Sauf mention contraire lors de l'inscription (ex: assurance annulation spécifique), les dossards sont **non remboursables et non échangeables**, quel que soit le motif de l'annulation (blessure, maladie, empêchement professionnel ou personnel).
 
-Le Participant est informé que, conformément à l'article **L.221-28 12° du Code de la consommation**, le droit de rétractation ne peut être exercé pour les contrats de prestation de services d'activités de loisirs qui doivent être fournis à une date ou à une période déterminée.
-En conséquence, **l'achat d'un dossard pour la Purple Rouen est ferme et définitif**.
+### 4.2 Modification de l'événement par l'Organisateur
+L'Organisateur se réserve le droit de modifier le parcours, la distance ou les horaires de l'événement pour des raisons de sécurité ou d'organisation. Ces modifications ne peuvent donner lieu à aucun remboursement.
 
-## ARTICLE 4 : ANNULATION ET REMBOURSEMENT
+### 4.3 Annulation de l'événement (Force Majeure)
+En cas d'annulation de l'événement pour un cas de **force majeure** ou pour un motif indépendant de la volonté de l'Organisateur, l'Organisateur ne pourra être tenu responsable.
+Sont notamment considérés comme cas de force majeure : les conditions climatiques exceptionnelles, les catastrophes naturelles, les incendies, les inondations, les épidémies ou crises sanitaires, les actes de terrorisme ou menaces terroristes, les grèves, ainsi que toute décision administrative (Préfecture, Mairie) interdisant la manifestation pour des raisons de sécurité ou d'ordre public.
 
-### 4.1 Du fait du Participant
-Les dossards ne sont **ni échangeables ni remboursables**, quel que soit le motif de l'annulation (empêchement personnel, blessure, maladie, etc.), sauf si une option "Assurance Annulation" a été souscrite (si proposée par l'Organisateur) et selon les conditions de celle-ci.
+Dans une telle hypothèse, l'Organisateur proposera, à sa seule discrétion et en fonction des frais fixes déjà engagés :
+*   Soit un remboursement partiel ou total des droits d'inscription (hors frais de gestion).
+*   Soit un report de l'inscription à l'édition suivante.
+*   Soit aucune indemnisation si la pérennité de l'association organisatrice est menacée.
 
-### 4.2 Du fait de l'Organisateur
-En cas d'annulation de l'événement par l'Organisateur pour des raisons de sécurité ou de force majeure (conditions météo exceptionnelles, décision administrative, crise sanitaire, etc.), les modalités de dédommagement (report ou remboursement partiel/total) seront fixées par l'Organisateur en fonction des frais déjà engagés, sans que le Participant ne puisse prétendre à une autre indemnité.
+## ARTICLE 5 : CESSION DE DOSSARD
 
-## ARTICLE 5 : INCESSIBILITÉ DES DOSSARDS
+L'inscription est **strictement personnelle**. Toute cession de dossard à un tiers est interdite, sauf dans le cadre d'une procédure officielle de transfert éventuellement mise en place par l'Organisateur.
+Toute personne participant avec le dossard d'autrui sans transfert officiel le fait sous son entière responsabilité. L'Organisateur décline toute responsabilité en cas d'accident et se réserve le droit d'exclure définitivement le cédant et le cessionnaire de l'événement.
 
-L'inscription est strictement personnelle.
-**Toute cession de dossard est interdite** sauf si une procédure de transfert officielle est mise en place par l'Organisateur (bourse aux dossards).
-Toute personne rétrocédant son dossard à un tiers en dehors de cette procédure officielle sera reconnue responsable en cas d'accident survenu ou provoqué par ce tiers durant l'épreuve. L'Organisateur décline toute responsabilité face à ce type de situation et exclura définitivement le cédant et le cessionnaire de l'événement.
+## ARTICLE 6 : LIMITATION DE RESPONSABILITÉ
 
-## ARTICLE 6 : RESPONSABILITÉ
+L'Organisateur ne saurait être tenu pour responsable de l'inexécution ou de la mauvaise exécution du contrat imputable soit au Participant, soit au fait imprévisible et insurmontable d'un tiers, soit à un cas de force majeure.
+L'Organisateur décline toute responsabilité quant à la perte, au vol ou à la détérioration de matériel personnel durant l'événement.
 
-L'Organisateur ne saurait être tenu pour responsable de l'inexécution du contrat due à la survenance d'un cas de force majeure.
-La responsabilité de l'Organisateur ne pourra être engagée pour un dommage résultant de l'utilisation du réseau Internet (perte de données, intrusion, virus, rupture du service, etc.).
+## ARTICLE 7 : CONTACT ET RÉCLAMATIONS
 
-## ARTICLE 7 : DONNÉES PERSONNELLES
+Pour toute question relative à votre inscription, votre commande ou pour toute réclamation, vous pouvez contacter le service inscriptions : **[inscriptions@purplerouen.fr](mailto:inscriptions@purplerouen.fr)**.
 
-Les données communiquées par le Participant sont nécessaires au traitement de son inscription. Elles sont traitées conformément au RGPD. Pour plus d'informations, veuillez consulter notre [Politique de Confidentialité](https://purplerouen.fr/politique-confidentialite).
+## ARTICLE 8 : MÉDIATION DE LA CONSOMMATION
 
-## ARTICLE 8 : MÉDIATION ET LITIGES
+Conformément aux articles L.616-1 et R.616-1 du Code de la consommation, en cas de litige non résolu directement avec l'Organisateur, le Participant peut recourir gratuitement au service de médiation :
+**CNPM - MEDIATION DE LA CONSOMMATION**
+Site internet : [https://cnpm-mediation-consommation.eu](https://cnpm-mediation-consommation.eu)
+Adresse : 27 avenue de la libération - 42400 Saint-Chamond.
 
-Les présentes CGV sont soumises à la loi française.
-En cas de litige, le Participant s'adressera en priorité à l'Organisateur pour tenter de trouver une solution amiable : [contact@purplerouen.fr](mailto:contact@purplerouen.fr).
+## ARTICLE 9 : DROIT APPLICABLE
 
-Conformément aux articles L.616-1 et R.616-1 du Code de la consommation, notre société a mis en place un dispositif de médiation de la consommation. L'entité de médiation retenue est : **CNPM - MEDIATION DE LA CONSOMMATION**.
-En cas de litige, vous pouvez déposer votre réclamation sur son site : [https://cnpm-mediation-consommation.eu](https://cnpm-mediation-consommation.eu) ou par voie postale en écrivant à CNPM - MEDIATION - CONSOMMATION - 27 avenue de la libération - 42400 Saint-Chamond.
-
-À défaut d'accord amiable, tout litige sera porté devant les tribunaux compétents.
+Les présentes CGV sont soumises à la loi française. En cas de litige, les tribunaux français seront seuls compétents.
