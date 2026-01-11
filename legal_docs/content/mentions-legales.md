@@ -10,48 +10,50 @@ Association régie par la loi du 1er juillet 1901.
 
 *   **Siège social :** 685 avenue de l'université BP8, 76800 Saint-Étienne-du-Rouvray, France.
 *   **Email :** [contact@purplerouen.fr](mailto:contact@purplerouen.fr)
-*   **Numéro SIRET :** [NUMÉRO SIRET À COMPLÉTER]
-*   **Numéro RNA :** [NUMÉRO RNA À COMPLÉTER]
+*   **Numéro SIRET :** [À COMPLÉTER]
+*   **Numéro RNA :** [À COMPLÉTER]
 
 ### 2. Responsables de la publication
 **Directeur de la publication :** Le Président de l'AS INSA Rouen Normandie.
-**Responsable de l'événement :** L'équipe d'organisation Purple Rouen.
+**Responsable opérationnel :** Le Responsable de l'Organisation Purple Rouen.
 
 ### 3. Hébergement
-Le site est hébergé par :
-**HOSTINGER INTERNATIONAL LIMITED**
-Société privée à responsabilité limitée de droit chypriote.
-Adresse : 61 Lordou Vironos str., 6023 Larnaca, Chypre.
-Site web : [https://www.hostinger.fr](https://www.hostinger.fr)
+L'architecture technique du site repose sur deux prestataires :
+
+**Diffusion et Sécurité (CDN / Frontend) :**
+**Cloudflare, Inc.**
+101 Townsend St., San Francisco, California 94107, USA.
+Site web : [https://www.cloudflare.com](https://www.cloudflare.com)
+
+**Stockage des Données et Backend (VPS) :**
+**Hostinger International Ltd.** (Succursale France ou Datacenter France)
+Siège : 61 Lordou Vironos str., 6023 Larnaca, Chypre.
+Les données d'inscription sont hébergées sur des serveurs situés en France.
 
 ### 4. Conception et Développement
-Le site a été développé par :
-**Romain Leprevost**
-Site web : [https://romainleprevost.fr](https://romainleprevost.fr)
+**Conception :** Équipe Technique / Webmaster Purple Rouen (AS INSA Rouen).
+**Contact technique :** [webmaster@purplerouen.fr](mailto:webmaster@purplerouen.fr)
 
 ---
 
 ## II. CONDITIONS GÉNÉRALES D'UTILISATION (CGU)
 
 ### 1. Objet
-Les présentes CGU régissent l'utilisation du site [https://purplerouen.fr](https://purplerouen.fr). Tout accès au site vaut acceptation de ces conditions.
+Les présentes CGU régissent l'utilisation du site [https://purplerouen.fr](https://purplerouen.fr). L'accès au site vaut acceptation pleine et entière de ces conditions.
 
-### 2. Accès au site
-Le site est accessible gratuitement à tout utilisateur disposant d'un accès à internet. Tous les coûts afférents à l'accès au site sont à la charge de l'utilisateur.
-L'éditeur met en œuvre tous les moyens pour assurer un accès de qualité, mais n'est tenu à aucune obligation de résultat. Le site peut être suspendu pour maintenance sans préavis.
+### 2. Propriété Intellectuelle
+L'ensemble des éléments du site (marque "Purple Rouen", logo, charte graphique, textes, images, vidéos, code source) est la propriété exclusive de l'**AS INSA Rouen**.
+Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de l'AS INSA Rouen.
+Toute exploitation non autorisée sera considérée comme constitutive d'une contrefaçon et poursuivie conformément aux dispositions du Code de la Propriété Intellectuelle.
 
-### 3. Propriété Intellectuelle
-L'ensemble des contenus (textes, images, logos, charte graphique) est la propriété exclusive de l'AS INSA Rouen ou de ses partenaires. Toute reproduction totale ou partielle sans autorisation est interdite (Article L.122-5 du Code de la propriété intellectuelle).
+### 3. Gestion des Données Personnelles
+Le site assure à l'utilisateur une collecte et un traitement d'informations personnelles dans le respect de la vie privée conformément à la loi n°78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et au RGPD.
+Pour plus d'informations, se référer à la **Politique de Confidentialité**.
 
-### 4. Données Personnelles
-L'utilisation du site, et notamment l'inscription aux courses, entraîne la collecte et le traitement de données personnelles. Pour en savoir plus, consultez notre **Politique de Confidentialité**.
+### 4. Responsabilité
+**Contenu :** L'AS INSA Rouen s'efforce de fournir des informations aussi précises que possible. Toutefois, elle ne pourra être tenue responsable des oublis, des inexactitudes et des carences dans la mise à jour.
+**Technique :** L'AS INSA Rouen ne pourra être tenue responsable de dommages matériels liés à l'utilisation du site. De plus, l'utilisateur du site s'engage à accéder au site en utilisant un matériel récent, ne contenant pas de virus et avec un navigateur de dernière génération mis-à-jour.
+**Liens externes :** Le site contient des liens hypertextes vers d'autres sites. L'AS INSA Rouen n'a pas la possibilité de vérifier le contenu des sites ainsi visités, et n'assumera en conséquence aucune responsabilité de ce fait.
 
-### 5. Responsabilité
-Les informations diffusées sur le site sont données à titre indicatif. L'éditeur ne saurait être tenu responsable des omissions, inexactitudes et carences dans la mise à jour, qu'elles soient de son fait ou du fait des tiers partenaires qui lui fournissent ces informations.
-L'éditeur décline toute responsabilité quant à l'utilisation qui pourrait être faite des informations et contenus présents sur le site.
-
-### 6. Liens hypertextes
-Le site peut contenir des liens vers d'autres sites. L'éditeur n'exerce aucun contrôle sur ces sites et décline toute responsabilité quant à leur contenu.
-
-### 7. Droit applicable
-Les présentes mentions légales et CGU sont régies par la loi française. En cas de litige, et à défaut d'accord amiable, les tribunaux français seront seuls compétents.
+### 5. Droit applicable
+Tout litige en relation avec l'utilisation du site [https://purplerouen.fr](https://purplerouen.fr) est soumis au droit français. Il est fait attribution exclusive de juridiction aux tribunaux compétents de Rouen.
