@@ -16,6 +16,8 @@ Le site **Purple Rouen** ([https://purplerouen.fr](https://purplerouen.fr)) est 
 **Responsable de l'événement** : Le Responsable du Comité d'Organisation Purple Rouen.
 Contact : [contact@purplerouen.fr](mailto:contact@purplerouen.fr)
 
+Pour tout problème technique lié au site, vous pouvez contacter : [webmaster@purplerouen.fr](mailto:webmaster@purplerouen.fr)
+
 ### 3. Hébergement
 Le site est hébergé par :
 **HOSTINGER INTERNATIONAL LIMITED**

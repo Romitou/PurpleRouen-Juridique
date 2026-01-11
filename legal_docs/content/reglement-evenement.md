@@ -28,6 +28,8 @@ Les mineurs doivent fournir :
 *   Une **autorisation parentale** signée.
 *   Le **Questionnaire de santé mineur**. En cas de réponse positive à l'une des questions, un certificat médical de moins de 6 mois est exigé.
 
+Ces documents peuvent être téléchargés lors de l'inscription en ligne ou, en cas de difficulté, envoyés par email à : **[inscriptions@purplerouen.fr](mailto:inscriptions@purplerouen.fr)**.
+
 **Dispositions spéciales -16 ans :**
 Tout mineur de moins de 16 ans doit être impérativement **accompagné d'un responsable légal** (inscrit et participant à la même épreuve) sur la totalité du parcours. Une **décharge de responsabilité** spécifique signée par le tuteur légal est requise.
 
@@ -98,3 +100,7 @@ Pour plus de détails sur la gestion de vos données et vos droits, référez-vo
 
 Le présent règlement est régi par la loi française. Tout litige relève de la compétence exclusive des tribunaux français.
 La participation à la Purple Rouen implique l'acceptation pleine et entière du présent règlement.
+
+---
+**Pour toute question relative aux inscriptions : [inscriptions@purplerouen.fr](mailto:inscriptions@purplerouen.fr)**
+**Pour tout autre renseignement : [contact@purplerouen.fr](mailto:contact@purplerouen.fr)**

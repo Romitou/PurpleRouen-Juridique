@@ -43,13 +43,17 @@ Toute personne participant avec le dossard d'autrui sans transfert officiel le f
 L'Organisateur ne saurait être tenu pour responsable de l'inexécution ou de la mauvaise exécution du contrat imputable soit au Participant, soit au fait imprévisible et insurmontable d'un tiers, soit à un cas de force majeure.
 L'Organisateur décline toute responsabilité quant à la perte, au vol ou à la détérioration de matériel personnel durant l'événement.
 
-## ARTICLE 7 : MÉDIATION DE LA CONSOMMATION
+## ARTICLE 7 : CONTACT ET RÉCLAMATIONS
+
+Pour toute question relative à votre inscription, votre commande ou pour toute réclamation, vous pouvez contacter le service inscriptions : **[inscriptions@purplerouen.fr](mailto:inscriptions@purplerouen.fr)**.
+
+## ARTICLE 8 : MÉDIATION DE LA CONSOMMATION
 
 Conformément aux articles L.616-1 et R.616-1 du Code de la consommation, en cas de litige non résolu directement avec l'Organisateur, le Participant peut recourir gratuitement au service de médiation :
 **CNPM - MEDIATION DE LA CONSOMMATION**
 Site internet : [https://cnpm-mediation-consommation.eu](https://cnpm-mediation-consommation.eu)
 Adresse : 27 avenue de la libération - 42400 Saint-Chamond.
 
-## ARTICLE 8 : DROIT APPLICABLE
+## ARTICLE 9 : DROIT APPLICABLE
 
 Les présentes CGV sont soumises à la loi française. En cas de litige, les tribunaux français seront seuls compétents.
