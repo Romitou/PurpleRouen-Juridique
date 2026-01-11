@@ -1,79 +1,79 @@
 # Conditions Générales de Vente (CGV) - Purple Rouen 2026
 
-## ARTICLE 1 : CHAMP D'APPLICATION
+## ARTICLE 1 : DÉSIGNATION DU VENDEUR
 
-Les présentes Conditions Générales de Vente (CGV) régissent la vente de droits d'inscription (dossards) et de produits dérivés (boutique) pour l'événement **Purple Rouen** par l'**Association Sportive de l'INSA Rouen Normandie** (ci-après "l'Organisateur").
-L'inscription et l'achat de produits impliquent l'acceptation sans réserve des présentes CGV, du Règlement de l'Événement, et de la Politique de Confidentialité.
+Les présentes Conditions Générales de Vente (CGV) régissent les transactions effectuées sur le site [https://purplerouen.fr](https://purplerouen.fr) entre :
 
-## ARTICLE 2 : PRIX
+**Le Vendeur :**
+**Association Sportive de l'INSA Rouen Normandie** (AS INSA Rouen)
+Association loi 1901
+Siège social : 685 avenue de l'université BP8, 76800 Saint-Étienne-du-Rouvray.
+Email : [contact@purplerouen.fr](mailto:contact@purplerouen.fr)
 
-Les prix des dossards et des produits sont indiqués en **euros (€) Toutes Taxes Comprises (TTC)**.
-L'Organisateur se réserve le droit de modifier les tarifs à tout moment, mais les produits et inscriptions seront facturés sur la base des tarifs en vigueur au moment de l'enregistrement de la commande.
+Et :
+**L'Acheteur :** Toute personne physique ou morale effectuant une commande sur le site.
 
-## ARTICLE 3 : COMMANDE ET PAIEMENT
+## ARTICLE 2 : OBJET ET ACCEPTATION
 
-### 3.1 Modalités de paiement
-Le paiement s'effectue exclusivement en ligne par carte bancaire (Visa, MasterCard, CB). Les transactions sont sécurisées et traitées par notre prestataire de paiement **HelloAsso**.
+L'achat d'un dossard ou d'un produit dérivé pour l'événement **Purple Rouen** implique l'acceptation sans réserve des présentes CGV, ainsi que du **Règlement de l'événement** et de la **Politique de Confidentialité**.
+L'Acheteur déclare avoir la capacité juridique de contracter.
 
-### 3.2 Validation de la commande
-La commande n'est définitivement validée qu'après :
-1.  L'acceptation des CGV et du Règlement.
-2.  La confirmation du paiement par le centre bancaire.
-3.  La réception d'un email de confirmation d'inscription (contenant le QR Code) envoyé à l'adresse email renseignée par l'acheteur.
+## ARTICLE 3 : TARIFS ET PAIEMENT
 
-### 3.3 Expiration du panier
-Toute commande initiée mais non réglée ("Panier en attente") expire automatiquement après un délai défini par le système (généralement 20 minutes) afin de remettre les dossards en circulation. En cas d'expiration, le participant devra recommencer la procédure d'inscription.
+### 3.1 Prix
+Les prix sont indiqués en **Euros (€) Toutes Taxes Comprises (TTC)**.
+L'AS INSA Rouen se réserve le droit de modifier les tarifs à tout moment. Les produits seront facturés sur la base des tarifs en vigueur au moment de la validation de la commande.
 
-## ARTICLE 4 : BOUTIQUE ET PRODUITS
+### 3.2 Paiement sécurisé
+Le règlement s'effectue exclusivement par carte bancaire via le prestataire sécurisé **HelloAsso**.
+La commande est considérée comme définitivement validée après confirmation de l'accord des centres de paiement bancaire.
 
-### 4.1 Produits
-Des produits dérivés (t-shirts, goodies, etc.) peuvent être proposés à la vente lors de l'inscription ("Boutique"). Les offres sont valables tant qu'elles sont visibles sur le site et dans la limite des stocks disponibles.
+## ARTICLE 4 : ABSENCE DE DROIT DE RÉTRACTATION
 
-### 4.2 Retrait des produits
-Les produits achetés en ligne ne font l'objet d'aucune livraison postale. Ils doivent être retirés impérativement :
-*   Le jour de l'événement (**Samedi 21 mars 2026**).
-*   Au stand "Retrait des dossards / Boutique" du Village.
-*   Sur présentation de la confirmation de commande.
+Conformément à l'article **L.221-28 12° du Code de la consommation**, le droit de rétractation ne peut être exercé pour les contrats de **"prestations de services d'activités de loisirs qui doivent être fournis à une date ou à une période déterminée"**.
 
-Tout produit non retiré le jour de l'événement restera la propriété de l'Organisateur et ne pourra être remboursé.
+En conséquence, **l'achat d'un dossard pour la Purple Rouen est ferme et définitif.**
+Aucun remboursement ne sera effectué en cas de désistement de l'acheteur, quel qu'en soit le motif (blessure, empêchement personnel, erreur d'inscription, etc.), sauf application de la clause d'annulation par l'Organisateur (Article 6).
 
-## ARTICLE 5 : DROIT DE RÉTRACTATION
+## ARTICLE 5 : INTERDICTION DE REVENTE ET CESSION
 
-Conformément à l'article **L.221-28 12° du Code de la consommation**, le droit de rétractation ne s'applique pas aux prestations de services d'activités de loisirs (comprenant les événements sportifs) qui doivent être fournis à une date ou à une période déterminée.
-En conséquence, **toute inscription (dossard) est ferme et définitive**.
+Pour des raisons de sécurité et d'assurance :
+*   Toute inscription est strictement **personnelle**.
+*   Il est **interdit de céder ou de revendre** son dossard à un tiers sans passer par la procédure officielle de transfert (si celle-ci est activée par l'Organisateur).
+*   Tout dossard utilisé par une personne autre que celle inscrite sera invalidé, et la responsabilité de l'AS INSA Rouen ne pourra être engagée en cas d'accident subi ou causé par ce tiers.
 
-Pour les produits "Boutique" (biens physiques), le droit de rétractation ne s'applique pas s'ils sont retirés et utilisés sur place le jour de l'événement, ou s'ils ont été personnalisés.
+## ARTICLE 6 : ANNULATION DE L'ÉVÉNEMENT (FORCE MAJEURE)
 
-## ARTICLE 6 : ANNULATION ET REMBOURSEMENT
+### 6.1 Définition
+En cas de force majeure (événement imprévisible, irrésistible et extérieur) contraignant l'AS INSA Rouen à annuler l'événement (ex: catastrophe naturelle, décision préfectorale d'interdiction, crise sanitaire, alerte météo rouge), les règles suivantes s'appliquent.
 
-### 6.1 Annulation par le Participant
-Les inscriptions sont **personnelles, fermes et définitives**.
-Aucun remboursement ne sera effectué par l'Organisateur pour quelque motif que ce soit (indisponibilité, blessure, empêchement personnel).
+### 6.2 Conséquences financières
+Afin de protéger la pérennité de l'association qui engage des frais fixes non récupérables (secours, matériel, communication) :
+*   L'Organisateur ne garantit pas un remboursement intégral.
+*   L'Organisateur se réserve le droit de proposer, au choix :
+    *   Un remboursement partiel (déduction faite des frais engagés).
+    *   Un report de l'inscription à l'édition suivante.
+    *   Aucun remboursement si l'annulation intervient à la dernière minute.
 
-### 6.2 Cession de dossard
-Comme stipulé dans le Règlement, la cession de dossard est interdite sauf procédure officielle. Tout dossard revendu ou cédé hors du cadre officiel sera invalidé, sans remboursement.
+Aucune indemnité accessoire (frais de transport, hébergement) ne pourra être réclamée.
 
-### 6.3 Annulation de l'événement (Force Majeure)
-En cas d'annulation de l'événement pour un cas de **force majeure** (intempéries, décision administrative, crise sanitaire...), l'Organisateur étudiera la possibilité de rembourser tout ou partie des frais d'inscription, après déduction des frais fixes déjà engagés pour l'organisation.
-L'Organisateur pourra également proposer un report de l'inscription à l'édition suivante.
+## ARTICLE 7 : PRODUITS DÉRIVÉS (BOUTIQUE)
 
-## ARTICLE 7 : RESPONSABILITÉ
-
-L'Organisateur ne saurait être tenu pour responsable de l'inexécution ou de la mauvaise exécution du contrat imputable soit au consommateur, soit au fait imprévisible et insurmontable d'un tiers au contrat, soit à un cas de force majeure.
+Les produits achetés en option (t-shirts, goodies) doivent être retirés sur place le jour de l'événement.
+Aucun envoi postal ne sera effectué. Les produits non retirés restent la propriété de l'AS INSA Rouen et ne seront pas remboursés.
 
 ## ARTICLE 8 : PROTECTION DES DONNÉES
 
-Les données personnelles collectées lors de la commande sont nécessaires à la gestion de la transaction et de l'inscription. Elles sont traitées conformément à notre Politique de Confidentialité.
+Les informations collectées sont nécessaires au traitement de la commande. Elles sont traitées sous la responsabilité de l'AS INSA Rouen.
+Contact DPO : [dpo@purplerouen.fr](mailto:dpo@purplerouen.fr).
 
-## ARTICLE 9 : LITIGES ET MÉDIATION
+## ARTICLE 9 : RÉCLAMATIONS ET MÉDIATION
 
-En cas de litige, le participant s'adressera en priorité à l'Organisateur pour obtenir une solution amiable : **[inscriptions@purplerouen.fr](mailto:inscriptions@purplerouen.fr)**.
+Pour toute réclamation, l'Acheteur doit contacter le **Responsable des Inscriptions** : [inscriptions@purplerouen.fr](mailto:inscriptions@purplerouen.fr).
 
-Conformément aux articles L.616-1 et R.616-1 du Code de la consommation, si la demande n'aboutit pas, le consommateur peut recourir gratuitement au service de médiation de la consommation dont relève l'Organisateur :
-**CNPM - MEDIATION DE LA CONSOMMATION**
-Site internet : [https://cnpm-mediation-consommation.eu](https://cnpm-mediation-consommation.eu)
-Adresse : 27 avenue de la libération - 42400 Saint-Chamond.
+Si le litige persiste, l'Acheteur peut recourir gratuitement à un médiateur de la consommation (Articles L.616-1 et R.616-1 du Code de la consommation).
+**Médiateur référent :** CNPM - MEDIATION DE LA CONSOMMATION ([https://cnpm-mediation-consommation.eu](https://cnpm-mediation-consommation.eu)).
 
-## ARTICLE 10 : DROIT APPLICABLE
+## ARTICLE 10 : LOI APPLICABLE
 
-Les présentes CGV sont soumises à la loi française. Tout litige relatif à leur interprétation et/ou à leur exécution relève des juridictions françaises.
+Les présentes CGV sont soumises à la loi française. Les tribunaux compétents sont ceux du ressort du siège social de l'AS INSA Rouen.
