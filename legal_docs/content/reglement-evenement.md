@@ -3,7 +3,7 @@
 ## Article 1 : Organisation
 
 L'événement **Purple Rouen** est organisé par l’**Association Sportive de l’INSA Rouen Normandie** (ci-après "l'Organisateur" ou "AS INSA Rouen"), une association régie par la loi du 1er juillet 1901.
-La gestion opérationnelle est confiée à **L'équipe d'Organisation Purple Rouen**, qui agit sous la responsabilité de l'AS INSA Rouen.
+La gestion opérationnelle est confiée à **L'Équipe d'Organisation Purple Rouen**, qui agit sous la responsabilité juridique et financière de l'AS INSA Rouen.
 
 **Siège de l'organisation :** AS INSA Rouen, 685 avenue de l'université BP8, 76800 Saint-Étienne-du-Rouvray.
 **Contact général :** [contact@purplerouen.fr](mailto:contact@purplerouen.fr)
@@ -25,36 +25,39 @@ La Purple Rouen est une manifestation sportive et festive.
 L'épreuve est soumise à la réglementation de la Fédération Française d'Athlétisme (FFA).
 
 ### 3.2 Participants majeurs (Courses chronométrées)
-La participation aux 5 km et 10 km Course est conditionnée à la présentation :
+La participation aux 5 km et 10 km Course est conditionnée à la présentation préalable :
 *   D'une **Licence FFA** en cours de validité (Athlé Compétition, Athlé Entreprise, Athlé Running).
 *   OU d'une **Attestation PPS (Parcours Prévention Santé)** valide de moins de 3 mois au jour de la course, à générer sur [https://pps.athle.fr](https://pps.athle.fr).
+
+**Attention :** Le système de validation est automatisé. **Aucun certificat médical ou PPS ne sera accepté sur place le jour de la course.** Tout dossier incomplet sur la plateforme entraînera l'interdiction de prendre le départ.
 
 *La Marche 5 km ne nécessite pas de justificatif médical.*
 
 ### 3.3 Participants mineurs
-Les mineurs doivent fournir :
+Les mineurs doivent fournir via la plateforme :
 *   Une **Autorisation parentale** signée par le représentant légal.
 *   Le **Questionnaire de santé mineur** rempli. Si une réponse est positive, un certificat médical de moins de 6 mois est obligatoire.
 
 *Les mineurs de moins de 16 ans doivent être accompagnés d'un tuteur légal participant à l'épreuve.*
 
-### 3.4 Exclusion et comportement
-L'organisation se réserve le droit d'exclure de l'épreuve, sans remboursement, tout participant :
-*   En état d'ivresse manifeste ou sous l'emprise de stupéfiants.
-*   Adoptant un comportement dangereux, agressif ou contraire à l'esprit festif de l'événement.
-*   Ne respectant pas les instructions des signaleurs ou le présent règlement.
+### 3.4 Identité et Pseudonyme
+L'inscription exige de fournir sa **véritable identité civile** (Nom, Prénom) pour des raisons de sécurité, d'assurance et de validation médicale.
+Toutefois, l'Organisateur offre la possibilité aux participants d'utiliser un **Pseudonyme** lors de l'inscription.
+*   **Usage :** Ce pseudonyme sera utilisé pour l'affichage public (dossard personnalisé, classements, speaker).
+*   **Limite :** L'identité réelle reste obligatoire pour le retrait des dossards (contrôle d'identité) et les services de secours.
+*   **Modération :** L'Organisateur se réserve le droit de refuser tout pseudonyme injurieux, discriminant ou contraire aux bonnes mœurs, et de le remplacer par le prénom du participant.
 
 ## Article 4 : Inscriptions
 
 Les inscriptions se font exclusivement sur [https://purplerouen.fr](https://purplerouen.fr) avant le **18 mars 2026**.
 Toute inscription est ferme et définitive. Aucun remboursement ne sera effectué pour des motifs de convenance personnelle (voir CGV).
-La revente ou la cession de dossard est strictement interdite, sauf via la procédure officielle éventuellement mise en place ultérieurement.
+La revente ou la cession de dossard est strictement interdite (voir CGV).
 
 ## Article 5 : Retrait des dossards
 
 *   **Date :** Samedi 21 mars 2026 (08h00 - 09h30).
 *   **Lieu :** Village de la course, Gymnase INSA Rouen.
-*   **Pièces obligatoires :** Confirmation d'inscription (QR Code) + pièce d'identité originale.
+*   **Pièces obligatoires :** Confirmation d'inscription (QR Code) + pièce d'identité originale (correspondant à l'identité civile saisie).
 
 Tout dossard non retiré à l'heure limite ne sera pas distribué et ne donnera lieu à aucun remboursement.
 
@@ -68,7 +71,7 @@ L'événement est maintenu en cas de pluie ou de conditions météorologiques ha
 L'Organisateur ne procédera à aucun remboursement si un participant décide de ne pas courir en raison du mauvais temps, tant que l'épreuve n'est pas annulée par l'Organisateur pour des raisons de sécurité majeure.
 
 ### 6.3 Barrières horaires
-Pour le 10 km, les participants doivent respecter les temps de passage (passage au km 5 avant 10h50). Les participants hors délais seront mis hors course.
+Pour le 10 km, les participants doivent respecter les temps de passage (passage au km 5 avant 10h50). Les participants hors délais seront mis hors course par les signaleurs.
 
 ## Article 7 : Responsabilités et assurances
 
@@ -81,24 +84,22 @@ Sauf s'ils l'ont souscrite via une licence sportive, l'assurance de l'Organisate
 
 ### 7.3 Vol et Dommages matériels
 L'Organisateur décline toute responsabilité en cas de :
-*   Vol, perte ou détérioration de biens personnels (vêtements, téléphones, clés, etc.) sur le site de l'événement (village, parcours, vestiaires).
+*   Vol, perte ou détérioration de biens personnels (vêtements, téléphones, clés, etc.) sur le site de l'événement.
 *   Dommages subis par les véhicules stationnés aux abords de l'événement.
-Les participants sont invités à ne pas laisser d'objets de valeur sans surveillance.
 
-## Article 8 : Droit à l'image
+## Article 8 : Droit à l'image (Cession obligatoire)
 
-Par sa participation à la Purple Rouen, le participant autorise l'AS INSA Rouen et ses ayants droit (partenaires, médias) à :
-*   Fixer, enregistrer et diffuser son image et sa voix (photos, vidéos).
-*   Sur tout support (site web, réseaux sociaux, presse, supports promotionnels, aftermovie).
-*   À titre gracieux (sans contrepartie financière).
+L'événement Purple Rouen étant un événement public rassemblant un grand nombre de participants, il est techniquement impossible pour l'Organisateur de recueillir le consentement individuel de chaque personne présente sur les images de foule ou d'action.
 
-Le participant renonce expressément à se prévaloir du droit à l'image durant l'événement, compte tenu de la nature publique et festive de la manifestation.
+En conséquence, **l'inscription à l'événement vaut acceptation expresse et irrévocable du droit à l'image.**
+Le participant autorise l'AS INSA Rouen et ses ayants droit (partenaires, médias) à fixer, enregistrer et diffuser son image et sa voix sur tout support (site web, réseaux sociaux, presse, supports promotionnels, aftermovie).
 
-# Article 9 : Protection des données
+Aucune demande de floutage ou de retrait ne pourra être traitée a posteriori pour les plans larges ou les photos de course, le participant renonçant à tout recours à ce titre compte tenu de la nature de l'événement.
 
-Le traitement des données des participants est effectué par le Responsable Technique / Webmaster de la Purple Rouen conformément au RGPD ([webmaster@purplerouen.fr](mailto:webmaster@purplerouen.fr)).
+## Article 9 : Protection des données
 
-Pour toute question concernant la protection de vos données, vous pouvez contacter notre **Délégué à la Protection des Données (DPO)** : **[dpo@purplerouen.fr](mailto:dpo@purplerouen.fr)**. Les détails sont disponibles dans la **Politique de Confidentialité**.
+Le traitement des données des participants est effectué conformément au RGPD.
+Pour toute question, contactez notre **Délégué à la Protection des Données (DPO)** : **[dpo@purplerouen.fr](mailto:dpo@purplerouen.fr)**. Les détails sont disponibles dans la **Politique de Confidentialité**.
 
 ## Article 10 : Loi applicable et litiges
 

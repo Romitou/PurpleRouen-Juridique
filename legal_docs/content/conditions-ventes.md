@@ -28,39 +28,40 @@ L'AS INSA Rouen se réserve le droit de modifier les tarifs à tout moment. Les 
 Le règlement s'effectue exclusivement par carte bancaire via le prestataire sécurisé **HelloAsso**.
 La commande est considérée comme définitivement validée après confirmation de l'accord des centres de paiement bancaire.
 
+### 3.3 Disponibilité et expiration du Panier
+Les dossards et produits sont proposés dans la limite des stocks disponibles.
+**Attention :** L'ajout d'un produit au panier ne garantit pas sa réservation définitive. Le système informatique applique une durée de validité au panier). Si le paiement n'est pas validé avant l'expiration de ce délai, le panier est considéré comme **expiré** et les produits sont remis en vente automatiquement. L'AS INSA Rouen ne saurait être tenue responsable si un produit devient indisponible entre l'ajout au panier et la validation du paiement.
+
 ## Article 4 : Absence de droit de rétractation
 
 Conformément à l'article **L.221-28 12° du Code de la consommation**, le droit de rétractation ne peut être exercé pour les contrats de **"prestations de services d'activités de loisirs qui doivent être fournis à une date ou à une période déterminée"**.
 
 En conséquence, **l'achat d'un dossard pour la Purple Rouen est ferme et définitif.**
-Aucun remboursement ne sera effectué en cas de désistement de l'acheteur, quel qu'en soit le motif (blessure, empêchement personnel, erreur d'inscription, etc.), sauf application de la clause d'annulation par l'Organisateur (Article 6).
+Aucun remboursement ne sera effectué en cas de désistement de l'acheteur, quel qu'en soit le motif (blessure, empêchement personnel, erreur d'inscription, etc.), sauf application discrétionnaire de la clause d'annulation (Article 6).
 
-## Article 5 : Interdiction de revente et cession
+## Article 5 : Incessibilité du dossard
 
 Pour des raisons de sécurité et d'assurance :
 *   Toute inscription est strictement **personnelle**.
-*   Il est **interdit de céder ou de revendre** son dossard à un tiers sans passer par la procédure officielle de transfert (si celle-ci est activée par l'Organisateur).
+*   Il est **strictement interdit de céder ou de revendre** son dossard à un tiers. Aucune procédure de transfert n'est actuellement en vigueur.
 *   Tout dossard utilisé par une personne autre que celle inscrite sera invalidé, et la responsabilité de l'AS INSA Rouen ne pourra être engagée en cas d'accident subi ou causé par ce tiers.
 
-## Article 6 : Annulation de l'événement (Force majeure)
+## Article 6 : Annulation de l'événement (force majeure)
 
-### 6.1 Définition
-En cas de force majeure (événement imprévisible, irrésistible et extérieur) contraignant l'AS INSA Rouen à annuler l'événement (ex: catastrophe naturelle, décision préfectorale d'interdiction, crise sanitaire, alerte météo rouge), les règles suivantes s'appliquent.
+### 6.1 Principe
+En cas de force majeure (événement imprévisible, irrésistible et extérieur) ou de décision administrative contraignant l'AS INSA Rouen à annuler l'événement (ex: intempéries graves, interdiction préfectorale, crise sanitaire), l'événement pourra être annulé.
 
 ### 6.2 Conséquences financières
-Afin de protéger l'association qui engage des frais fixes non récupérables (secours, matériel, communication) :
-*   L'organisateur ne garantit pas un remboursement intégral.
-*   L'organisateur se réserve le droit de proposer, au choix :
-    *   Un remboursement partiel (déduction faite des frais engagés).
-    *   Un report de l'inscription à l'édition suivante.
-    *   Aucun remboursement si l'annulation intervient à la dernière minute.
+Dans cette hypothèse, l'AS INSA Rouen **se réserve le droit de procéder ou non au remboursement**, total ou partiel, des frais d'inscription, en fonction des frais fixes déjà engagés par l'organisation. Aucune indemnité accessoire ne pourra être réclamée.
 
-Aucune indemnité accessoire (frais de transport, hébergement) ne pourra être réclamée.
+## Article 7 : Produits dérivés (boutique)
 
-## Article 7 : Produits dérivés (Boutique)
+### 7.1 Retrait sur place uniquement
+Les produits achetés en option (t-shirts, goodies) doivent être retirés sur place le jour de l'événement au stand dédié.
+**Aucun envoi postal ne sera effectué**, même en cas d'empêchement du participant.
 
-Les produits achetés en option (t-shirts, goodies) doivent être retirés sur place le jour de l'événement.
-Aucun envoi postal ne sera effectué. Les produits non retirés restent la propriété de l'AS INSA Rouen et ne seront pas remboursés.
+### 7.2 Renonciation
+Tout produit non retiré à la fermeture du village de la course le jour de l'événement restera la propriété de l'AS INSA Rouen et ne pourra faire l'objet d'aucun remboursement.
 
 ## Article 8 : Protection des données
 

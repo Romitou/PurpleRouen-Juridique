@@ -12,7 +12,7 @@ Pour toute question concernant la protection de vos données, vous pouvez contac
 
 Dans le cadre de l'événement **Purple Rouen**, nous collectons les données strictement nécessaires aux finalités suivantes :
 
-### 2.1 Identification et Contact
+### 2.1 Identification et contact
 *   **Données :** Nom, prénom, date de naissance, sexe, email, téléphone.
 *   **Finalité :** Gestion de l'inscription, envoi des confirmations et informations pratiques (horaires, dossards).
 *   **Base légale :** Exécution du contrat (inscription à l'événement).
@@ -22,7 +22,12 @@ Dans le cadre de l'événement **Purple Rouen**, nous collectons les données st
 *   **Justification :** Ces données sont obligatoires pour valider l'aptitude physique du participant conformément au **Code du Sport** et pour assurer la **sécurité des participants** (secours).
 *   **Base légale :** Obligation légale et sauvegarde des intérêts vitaux.
 
-### 2.3 Données techniques
+### 2.3 Pseudonymat
+*   **Données :** Pseudonyme (optionnel).
+*   **Finalité :** Affichage public sur les dossards et les classements, permettant de préserver la confidentialité du nom réel vis-à-vis du grand public.
+*   **Précision :** L'identité civile (Nom/Prénom) reste demandée et conservée en base de données pour les impératifs légaux et de sécurité.
+
+### 2.4 Données techniques
 *   **Données :** Adresse IP, logs de connexion, données de validation du navigateur.
 *   **Finalité :** Sécurité du site, lutte contre la fraude et le spam, authentification.
 *   **Base légale :** Intérêt légitime (sécurisation des systèmes d'information).
@@ -36,7 +41,7 @@ Vos données ne sont accessibles qu'aux personnes habilitées et aux sous-traita
     *   **Hostinger :** Hébergement de la base de données (France/UE).
     *   **Cloudflare :** Sécurisation et diffusion du site (UE).
     *   **HelloAsso :** Gestion sécurisée des paiements (France).
-    *   **Chronométreur Officiel :** Gestion des temps et publication des résultats (nom, prénom, club, temps).
+    *   **Chronométreur Officiel :** Gestion des temps et publication des résultats (Pseudo ou Nom selon choix, Club, Temps).
 3.  **Autorités :** Services de secours (pompiers, SAMU) en cas d'accident uniquement.
 
 **Aucune donnée personnelle n'est vendue, louée ou cédée à des partenaires commerciaux à des fins publicitaires.**
