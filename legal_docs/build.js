@@ -82,7 +82,7 @@ async function convertMarkdownToPdf(filename) {
 
     // Inject into template
     const finalHtml = template
-        .replace('{{title}}', filename.replace('.md', '').toUpperCase())
+        .replace('{{title}}', filename.replace('.md', '').replace(/-/g, ' ').toUpperCase())
         .replace('{{css}}', css)
         .replace('{{content}}', htmlContent);
 
