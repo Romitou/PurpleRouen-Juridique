@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>conditions-ventes.md</title>
+    <style>
+        /* Import de la police Inter pour un rendu propre et moderne */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+
+/* Global Styles */
+body {
+    font-family: 'Inter', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 10pt;
+    line-height: 1.6;
+    /* Interlignage aéré pour compenser le noir dense */
+    color: #000000;
+    /* NOIR FONCÉ PARTOUT pour le texte */
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    -webkit-font-smoothing: antialiased;
+    background-color: #f3f4f6;
+    /* Light gray background for screen delight */
+}
+
+/* Paper-like container for screen reading */
+.content {
+    max-width: 210mm;
+    /* A4 width */
+    margin: 40px auto;
+    padding: 40px 60px;
+    /* Comfortable reading padding */
+    background-color: #ffffff;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    /* Elegant shadow */
+    min-height: 297mm;
+    /* A4 height */
+}
+
+/* Ensure images fit */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Headings - On garde le violet pour la structure, sinon le document sera triste */
+h1,
+h2,
+h3,
+h4 {
+    color: #581c87;
+    margin-top: 2em;
+    margin-bottom: 0.8em;
+    line-height: 1.2;
+}
+
+h1 {
+    font-size: 24pt;
+    font-weight: 800;
+    text-align: center;
+    text-transform: uppercase;
+    color: #6B21A8;
+    margin-bottom: 2rem;
+}
+
+/* Style moderne pour les Articles (H2) */
+h2 {
+    font-size: 13pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #6B21A8;
+    background-color: #f3e8ff;
+    /* Fond violet très clair */
+    padding: 8px 12px;
+    border-left: 5px solid #6B21A8;
+    border-radius: 0 4px 4px 0;
+    margin-top: 2.5em;
+    /* Force le texte du titre à rester violet, mais si vous le voulez noir, changez color ici */
+}
+
+h3 {
+    font-size: 11pt;
+    font-weight: 600;
+    color: #4c1d95;
+    margin-top: 1.5em;
+    border-bottom: 1px solid #000;
+    /* Ligne noire pour coller au thème "foncé" */
+    padding-bottom: 5px;
+}
+
+/* Paragraphes et Textes */
+p {
+    margin-bottom: 1em;
+    color: #000000;
+    /* Noir pur */
+}
+
+strong {
+    color: #000000;
+    /* Noir pur */
+    font-weight: 800;
+    /* Plus gras pour se démarquer du noir normal */
+}
+
+/* Listes */
+ul,
+ol {
+    margin-bottom: 1em;
+    padding-left: 1.2em;
+    color: #000000;
+    /* Noir pur pour les puces */
+}
+
+li {
+    margin-bottom: 0.5em;
+    padding-left: 0.5em;
+    color: #000000;
+    /* Noir pur pour le texte des listes */
+}
+
+/* Force la couleur des puces (bullets) en noir */
+::marker {
+    color: #000000;
+}
+
+/* Liens */
+a {
+    color: #6B21A8;
+    /* On garde le lien violet pour qu'on sache que c'est cliquable */
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+a:focus-visible {
+    outline: 2px solid #6B21A8;
+    outline-offset: 2px;
+    border-radius: 2px;
+}
+
+/* Blockquotes */
+blockquote {
+    background: #f5f5f5;
+    /* Gris très très clair, presque blanc */
+    border-left: 4px solid #000000;
+    /* Bordure noire */
+    margin: 1.5em 0;
+    padding: 1em;
+    font-style: italic;
+    color: #000000;
+    /* Texte noir */
+}
+
+/* Print Specific Adjustments */
+@media print {
+    body {
+        font-size: 9pt;
+        color: #000000;
+        background-color: white;
+    }
+
+    .content {
+        max-width: none;
+        margin: 0;
+        padding: 0;
+        box-shadow: none;
+        min-height: 0;
+    }
+
+    h1,
+    h2,
+    h3 {
+        page-break-after: avoid;
+        color: #6B21A8 !important;
+        /* Garde les titres en couleur à l'impression */
+    }
+
+    /* Si vous voulez vraiment TOUT noir à l'impression (même les titres), décommentez ceci : */
+    /* h1, h2, h3, a { color: #000000 !important; } */
+
+    h2 {
+        background-color: transparent !important;
+        border-left: 5px solid #6B21A8 !important;
+        padding-left: 10px;
+    }
+
+    a {
+        text-decoration: underline;
+        color: #6B21A8;
+    }
+
+    p,
+    li,
+    blockquote {
+        page-break-inside: avoid;
+    }
+}
+    </style>
+</head>
+<body>
+    <main class="content">
+        <h1>Conditions Générales de Vente (CGV) - Purple Rouen 2026</h1>
+<h2>Article 1 : Désignation du vendeur</h2>
+<p>Les présentes Conditions Générales de Vente (CGV) encadrent les transactions effectuées sur le site <a href="https://purplerouen.fr">https://purplerouen.fr</a> entre :</p>
+<p><strong>Le Vendeur :</strong>
+<strong>Association Sportive de l'INSA Rouen Normandie</strong> (AS INSA Rouen)
+Association loi 1901
+Siège social : 685 avenue de l'université BP8, 76800 Saint-Étienne-du-Rouvray.
+Email : <a href="mailto:contact@purplerouen.fr">contact@purplerouen.fr</a></p>
+<p>Et :
+<strong>L'Acheteur :</strong> Toute personne physique ou morale passant commande sur le site.</p>
+<h2>Article 2 : Objet et acceptation</h2>
+<p>L'achat d'un dossard ou d'un produit dérivé pour l'événement <strong>Purple Rouen</strong> implique l'acceptation sans réserve des présentes CGV, ainsi que du <strong>Règlement de l'événement</strong> et de la <strong>Politique de Confidentialité</strong>.
+L'Acheteur déclare avoir la capacité juridique de contracter.</p>
+<h2>Article 3 : Tarifs et paiement</h2>
+<h3>3.1 Prix</h3>
+<p>Les prix sont indiqués en <strong>Euros (€) Toutes Taxes Comprises (TTC)</strong>.
+L'AS INSA Rouen se réserve le droit de modifier les tarifs à tout moment. Les produits seront facturés sur la base des tarifs en vigueur au moment de la validation de la commande.</p>
+<h3>3.2 Paiement sécurisé</h3>
+<p>Le règlement s'effectue exclusivement par carte bancaire via le prestataire sécurisé <strong>HelloAsso</strong>.
+La commande est considérée comme définitivement validée après confirmation de l'accord des centres de paiement bancaire.</p>
+<h3>3.3 Disponibilité et expiration du Panier</h3>
+<p>Les dossards et produits sont proposés dans la limite des stocks disponibles.
+<strong>Attention :</strong> L'ajout d'un produit au panier ne garantit pas sa réservation définitive. Le système informatique applique une durée de validité au panier). Si le paiement n'est pas validé avant l'expiration de ce délai, le panier est considéré comme <strong>expiré</strong> et les produits sont remis en vente automatiquement. L'AS INSA Rouen ne saurait être tenue responsable si un produit devient indisponible entre l'ajout au panier et la validation du paiement.</p>
+<h2>Article 4 : Absence de droit de rétractation</h2>
+<p>Conformément à l'article <strong>L.221-28 12° du Code de la consommation</strong>, le droit de rétractation ne peut être exercé pour les contrats de <strong>&quot;prestations de services d'activités de loisirs qui doivent être fournis à une date ou à une période déterminée&quot;</strong>.</p>
+<p>En conséquence, <strong>l'achat d'un dossard pour la Purple Rouen est ferme et définitif.</strong>
+Aucun remboursement ne sera effectué en cas de désistement de l'acheteur, quel qu'en soit le motif (blessure, empêchement personnel, erreur d'inscription, etc.), sauf application discrétionnaire de la clause d'annulation (Article 6).</p>
+<h2>Article 5 : Incessibilité du dossard</h2>
+<p>Pour des raisons de sécurité et d'assurance :</p>
+<ul>
+<li>Toute inscription est strictement <strong>personnelle</strong>.</li>
+<li>Il est <strong>strictement interdit de céder ou de revendre</strong> son dossard à un tiers. Aucune procédure de transfert n'est actuellement en vigueur.</li>
+<li>Tout dossard utilisé par une personne autre que celle inscrite sera invalidé, et la responsabilité de l'AS INSA Rouen ne pourra être engagée en cas d'accident subi ou causé par ce tiers.</li>
+</ul>
+<h2>Article 6 : Annulation de l'événement (force majeure)</h2>
+<h3>6.1 Principe</h3>
+<p>En cas de force majeure (événement imprévisible, irrésistible et extérieur) ou de décision administrative contraignant l'AS INSA Rouen à annuler l'événement (ex: intempéries graves, interdiction préfectorale, crise sanitaire), l'événement pourra être annulé.</p>
+<h3>6.2 Conséquences financières</h3>
+<p>Dans cette hypothèse, l'AS INSA Rouen <strong>se réserve le droit de procéder ou non au remboursement</strong>, total ou partiel, des frais d'inscription, en fonction des frais fixes déjà engagés par l'organisation. Aucune indemnité accessoire ne pourra être réclamée.</p>
+<h2>Article 7 : Produits dérivés (boutique)</h2>
+<h3>7.1 Retrait sur place uniquement</h3>
+<p>Les produits achetés en option (t-shirts, goodies) doivent être retirés sur place le jour de l'événement au stand dédié.
+<strong>Aucun envoi postal ne sera effectué</strong>, même en cas d'empêchement du participant.</p>
+<h3>7.2 Renonciation</h3>
+<p>Tout produit non retiré à la fermeture du village de la course le jour de l'événement restera la propriété de l'AS INSA Rouen et ne pourra faire l'objet d'aucun remboursement.</p>
+<h2>Article 8 : Protection des données</h2>
+<p>Les informations collectées sont nécessaires pour traiter votre commande. Elles sont gérées sous la responsabilité de l'AS INSA Rouen.
+Contact DPO : <a href="mailto:dpo@purplerouen.fr">dpo@purplerouen.fr</a>.</p>
+<h2>Article 9 : Réclamations et médiation</h2>
+<p>Pour toute réclamation, contactez d'abord le <strong>Responsable des Inscriptions</strong> : <a href="mailto:inscriptions@purplerouen.fr">inscriptions@purplerouen.fr</a>.</p>
+<p>Si le litige persiste, vous pouvez recourir gratuitement à un médiateur de la consommation (Articles L.616-1 et R.616-1 du Code de la consommation).
+<strong>Médiateur référent :</strong> CNPM - MEDIATION DE LA CONSOMMATION (<a href="https://cnpm-mediation-consommation.eu">https://cnpm-mediation-consommation.eu</a>).</p>
+<h2>Article 10 : Loi applicable</h2>
+<p>Les présentes CGV sont soumises à la loi française. Les tribunaux compétents sont ceux du ressort du siège social de l'AS INSA Rouen.</p>
+
+    </main>
+</body>
+</html>
