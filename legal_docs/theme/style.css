@@ -13,6 +13,28 @@ body {
     padding: 0;
     text-align: left;
     -webkit-font-smoothing: antialiased;
+    background-color: #f3f4f6;
+    /* Light gray background for screen delight */
+}
+
+/* Paper-like container for screen reading */
+.content {
+    max-width: 210mm;
+    /* A4 width */
+    margin: 40px auto;
+    padding: 40px 60px;
+    /* Comfortable reading padding */
+    background-color: #ffffff;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    /* Elegant shadow */
+    min-height: 297mm;
+    /* A4 height */
+}
+
+/* Ensure images fit */
+img {
+    max-width: 100%;
+    height: auto;
 }
 
 /* Headings - On garde le violet pour la structure, sinon le document sera triste */
@@ -127,6 +149,15 @@ blockquote {
     body {
         font-size: 9pt;
         color: #000000;
+        background-color: white;
+    }
+
+    .content {
+        max-width: none;
+        margin: 0;
+        padding: 0;
+        box-shadow: none;
+        min-height: 0;
     }
 
     h1,
