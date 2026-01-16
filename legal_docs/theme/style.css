@@ -13,6 +13,25 @@ body {
     padding: 0;
     text-align: left;
     -webkit-font-smoothing: antialiased;
+
+    /* Paper View Styles for Screen */
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 40px 20px;
+    box-sizing: border-box;
+}
+
+.content {
+    background-color: white;
+    width: 210mm; /* A4 width */
+    max-width: 100%;
+    min-height: 297mm; /* A4 height */
+    padding: 20mm; /* Match PDF margins */
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    box-sizing: border-box;
+    margin: 0 auto;
 }
 
 /* Headings - On garde le violet pour la structure, sinon le document sera triste */
@@ -127,6 +146,20 @@ blockquote {
     body {
         font-size: 9pt;
         color: #000000;
+        /* Reset Paper View */
+        background-color: transparent;
+        display: block;
+        padding: 0;
+        min-height: 0;
+    }
+
+    .content {
+        width: 100%;
+        max-width: none;
+        min-height: 0;
+        padding: 0;
+        box-shadow: none;
+        margin: 0;
     }
 
     h1,
