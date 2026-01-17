@@ -26,11 +26,15 @@ L'AS INSA Rouen se réserve le droit de modifier les tarifs à tout moment. Les 
 
 ### 3.2 Paiement sécurisé
 Le règlement s'effectue exclusivement par carte bancaire via le prestataire sécurisé **HelloAsso**.
+**Important :** HelloAsso est une plateforme proposant un modèle économique libre. Des frais de contribution au fonctionnement de HelloAsso peuvent être suggérés ou ajoutés lors du paiement. **Ces frais ne sont pas de la responsabilité de l'AS INSA Rouen.** Tout litige concernant ces frais spécifiques pourra faire l'objet d'une assistance amiable de la part de Purple Rouen, mais la responsabilité finale et le règlement du litige reviennent exclusivement à HelloAsso.
 La commande est considérée comme définitivement validée après confirmation de l'accord des centres de paiement bancaire.
 
 ### 3.3 Disponibilité et expiration du Panier
 Les dossards et produits sont proposés dans la limite des stocks disponibles.
 **Attention :** L'ajout d'un produit au panier ne garantit pas sa réservation définitive. Le système informatique applique une durée de validité au panier). Si le paiement n'est pas validé avant l'expiration de ce délai, le panier est considéré comme **expiré** et les produits sont remis en vente automatiquement. L'AS INSA Rouen ne saurait être tenue responsable si un produit devient indisponible entre l'ajout au panier et la validation du paiement.
+
+### 3.4 Annulation pour erreur technique
+En cas de dysfonctionnement du système informatique entraînant la validation automatique d'une inscription comportant des informations erronées, incohérentes ou incomplètes, l'AS INSA Rouen se réserve le droit d'annuler unilatéralement toute inscription ainsi confirmée. Le participant en sera informé par email et, le cas échéant, remboursé des sommes versées perçues par l'association.
 
 ## Article 4 : Absence de droit de rétractation
 

@@ -14,7 +14,10 @@ Dans le cadre de l'événement **Purple Rouen**, nous collectons les données st
 
 ### 2.1 Identification et contact
 *   **Données :** Nom, prénom, date de naissance, sexe, email, téléphone.
-*   **Finalité :** Gestion de l'inscription, envoi des confirmations et informations pratiques (horaires, dossards).
+*   **Finalité :** Gestion de l'inscription. L'adresse email est utilisée exclusivement pour :
+    *   L'envoi des confirmations d'inscription.
+    *   Le suivi du dossier (notification de refus ou d'acceptation des documents justificatifs).
+    *   L'envoi des informations pratiques et de sécurité dans les jours précédant la course.
 *   **Base légale :** Exécution du contrat (inscription à l'événement).
 
 ### 2.2 Données de Santé (Sensibles)
@@ -31,6 +34,12 @@ Dans le cadre de l'événement **Purple Rouen**, nous collectons les données st
 *   **Données :** Adresse IP, logs de connexion, données de validation du navigateur.
 *   **Finalité :** Sécurité du site, lutte contre la fraude et le spam, authentification.
 *   **Base légale :** Intérêt légitime (sécurisation des systèmes d'information).
+
+### 2.5 Communication sur les futures éditions
+*   **Données :** Email.
+*   **Finalité :** Informer les participants des éditions précédentes de l'ouverture des inscriptions et des actualités des futures éditions de la Purple Rouen.
+*   **Fonctionnement :** L'inscription à cette liste de diffusion est activée par défaut suite à une participation.
+*   **Droit d'opposition :** Le participant peut se désinscrire à tout moment via le lien de désinscription présent en bas de chaque email.
 
 ## 3. Destinataires des données
 
